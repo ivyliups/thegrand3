@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme Twitter Widget\n"
+"POT-Creation-Date: 2020-03-06 13:56+0100\n"
+"PO-Revision-Date: 2020-03-06 13:56+0100\n"
+"Last-Translator: \n"
+"Language-Team: QuanticaLabs\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ql_twitter_widget.php:27
+msgid "Displays Twitter Feed"
+msgstr ""
+
+#: ql_twitter_widget.php:30
+msgid "Twitter Feed"
+msgstr ""
+
+#: ql_twitter_widget.php:85
+msgid "Please check your config under Appearance->Widgets->Twitter Feed!"
+msgstr ""
+
+#: ql_twitter_widget.php:124
+msgid "Title"
+msgstr ""
+
+#: ql_twitter_widget.php:128
+msgid "Title border animation"
+msgstr ""
+
+#: ql_twitter_widget.php:130
+msgid "no"
+msgstr ""
+
+#: ql_twitter_widget.php:131
+msgid "yes"
+msgstr ""
+
+#: ql_twitter_widget.php:135
+msgid "Login"
+msgstr ""
+
+#: ql_twitter_widget.php:139
+msgid "Count"
+msgstr ""
+
+#: ql_twitter_widget.php:143
+msgid "Consumer key"
+msgstr ""
+
+#: ql_twitter_widget.php:147
+msgid "Consumer secret"
+msgstr ""
+
+#: ql_twitter_widget.php:151
+msgid "Access token"
+msgstr ""
+
+#: ql_twitter_widget.php:155
+msgid "Access token secret"
+msgstr ""
+
+#: ql_twitter_widget.php:159
+msgid ""
+"Directions to get the Consumer key, Consumer secret, Access token and Access "
+"token secret:"
+msgstr ""
+
+#: ql_twitter_widget.php:160
+#, php-format
+msgid "1. <a href='%s' target='_blank'>Add a new Twitter application</a>"
+msgstr ""
+
+#: ql_twitter_widget.php:161
+msgid ""
+"2. Fill in Name, Description, Website, and Callback URL (don't leave any "
+"blank) with anything you want"
+msgstr ""
+
+#: ql_twitter_widget.php:162
+msgid "3. Agree to rules, fill out captcha, and submit your application"
+msgstr ""
+
+#: ql_twitter_widget.php:163
+msgid ""
+"4. Copy the Consumer key, Consumer secret, Access token and Access token "
+"secret into the fields above"
+msgstr ""
+
+#: ql_twitter_widget.php:164
+msgid "5. Click the Save button at the bottom"
+msgstr ""

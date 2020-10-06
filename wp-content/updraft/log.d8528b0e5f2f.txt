@@ -1,0 +1,8 @@
+0000.001 (0) Opened log file at time: Mon, 05 Oct 2020 02:51:25 +0000 on http://localhost:8888/thegrand
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.29 WP: 5.5.1 PHP: 7.2.1 (apache2handler, Darwin ivy-lius-MBP 19.3.0 Darwin Kernel Version 19.3.0: Thu Jan  9 20:58:23 PST 2020; root:xnu-6153.81.5~1/RELEASE_X86_64 x86_64) MySQL: 5.6.38 WPLANG: en_US Server: Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 57.1M | 58.3M) multisite: N openssl: OpenSSL 1.0.2j  26 Sep 2016 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.004 (0) Free space on disk containing Updraft's temporary directory: 7786 MB
+0000.006 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.006 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.013 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1601750572, seconds_ago=115713)
+0000.014 (0) Semaphore lock (fd, wp_options) failed (line 43)
+0000.014 (0) Failed to gain semaphore lock (fd) - another backup of this type is apparently already active - aborting (if this is wrong - i.e. if the other backup crashed without removing the lock, then another can be started after 3 minutes)

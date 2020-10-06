@@ -1,0 +1,638 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Medicenter Doctors\n"
+"POT-Creation-Date: 2020-03-24 13:21+0100\n"
+"PO-Revision-Date: 2020-03-24 13:21+0100\n"
+"Last-Translator: \n"
+"Language-Team: QuanticaLabs\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin-page-permalink.php:2
+msgid "Permalink settings"
+msgstr ""
+
+#: admin/admin-page-permalink.php:23
+msgid "Slug (permalink)"
+msgstr ""
+
+#: admin/admin-page-permalink.php:33
+msgid "Doctor label singular"
+msgstr ""
+
+#: admin/admin-page-permalink.php:43
+msgid "Doctor label plural"
+msgstr ""
+
+#: admin/admin-page-permalink.php:52
+msgid "Save Options"
+msgstr ""
+
+#: medicenter_doctors.php:23
+msgid "Permalink"
+msgstr ""
+
+#: medicenter_doctors.php:31
+msgid "Options saved!"
+msgstr ""
+
+#: medicenter_doctors.php:34 medicenter_doctors.php:46
+#: medicenter_doctors.php:55
+msgid "Doctor"
+msgstr ""
+
+#: medicenter_doctors.php:35 medicenter_doctors.php:47
+#: medicenter_doctors.php:56
+msgid "Doctors"
+msgstr ""
+
+#: medicenter_doctors.php:68
+msgid "Add New"
+msgstr ""
+
+#: medicenter_doctors.php:69
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: medicenter_doctors.php:70
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: medicenter_doctors.php:71
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: medicenter_doctors.php:72
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: medicenter_doctors.php:73
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: medicenter_doctors.php:74
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: medicenter_doctors.php:75
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: medicenter_doctors.php:76
+#, php-format
+msgid "No %s found in Trash"
+msgstr ""
+
+#: medicenter_doctors.php:92 medicenter_doctors.php:444
+msgid "Categories"
+msgstr ""
+
+#: medicenter_doctors.php:92
+msgid "Category"
+msgstr ""
+
+#: medicenter_doctors.php:101
+msgid "Options"
+msgstr ""
+
+#: medicenter_doctors.php:169
+msgid "Subtitle"
+msgstr ""
+
+#: medicenter_doctors.php:177
+msgid "Description"
+msgstr ""
+
+#: medicenter_doctors.php:189
+msgid "Featured image description"
+msgstr ""
+
+#: medicenter_doctors.php:197
+msgid "Video URL (optional)"
+msgstr ""
+
+#: medicenter_doctors.php:201
+msgid ""
+"For Vimeo please use https://vimeo.com/%video_id% For YouTube: https://www."
+"youtube.com/watch?v=%video_id%"
+msgstr ""
+
+#: medicenter_doctors.php:206
+msgid "Ifame URL (optional)"
+msgstr ""
+
+#: medicenter_doctors.php:214
+msgid "External URL (optional)"
+msgstr ""
+
+#: medicenter_doctors.php:222
+msgid "External URL target"
+msgstr ""
+
+#: medicenter_doctors.php:226 medicenter_doctors.php:295
+msgid "same window"
+msgstr ""
+
+#: medicenter_doctors.php:227 medicenter_doctors.php:296
+msgid "new window"
+msgstr ""
+
+#: medicenter_doctors.php:233
+msgid "Timetable page"
+msgstr ""
+
+#: medicenter_doctors.php:258
+msgid "Social icons"
+msgstr ""
+
+#: medicenter_doctors.php:269
+msgid "Icon type"
+msgstr ""
+
+#: medicenter_doctors.php:283
+msgid "Icon url"
+msgstr ""
+
+#: medicenter_doctors.php:291
+msgid "Icon target"
+msgstr ""
+
+#: medicenter_doctors.php:308
+msgid "Add icon"
+msgstr ""
+
+#: medicenter_doctors.php:315
+msgid "Additional featured images"
+msgstr ""
+
+#: medicenter_doctors.php:326
+msgid "Image url"
+msgstr ""
+
+#: medicenter_doctors.php:331
+msgid "Browse"
+msgstr ""
+
+#: medicenter_doctors.php:336
+msgid "Image description"
+msgstr ""
+
+#: medicenter_doctors.php:344
+msgid "Video url"
+msgstr ""
+
+#: medicenter_doctors.php:352
+msgid "Iframe url"
+msgstr ""
+
+#: medicenter_doctors.php:360
+msgid "External url"
+msgstr ""
+
+#: medicenter_doctors.php:374
+msgid "Add image"
+msgstr ""
+
+#: medicenter_doctors.php:380
+msgid "Featured images lightbox loop"
+msgstr ""
+
+#: medicenter_doctors.php:384 medicenter_doctors.php:541
+msgid "yes"
+msgstr ""
+
+#: medicenter_doctors.php:385 medicenter_doctors.php:541
+msgid "no"
+msgstr ""
+
+#: medicenter_doctors.php:443
+msgid "Title"
+msgstr ""
+
+#: medicenter_doctors.php:445 medicenter_doctors.php:548
+msgid "Date"
+msgstr ""
+
+#: medicenter_doctors.php:489 medicenter_doctors.php:496
+msgid "All"
+msgstr ""
+
+#: medicenter_doctors.php:502
+msgid "Default"
+msgstr ""
+
+#: medicenter_doctors.php:503
+msgid "full (original image resolution)"
+msgstr ""
+
+#: medicenter_doctors.php:521
+msgid "Doctors list"
+msgstr ""
+
+#: medicenter_doctors.php:527
+msgid "MediCenter"
+msgstr ""
+
+#: medicenter_doctors.php:532
+msgid "Header"
+msgstr ""
+
+#: medicenter_doctors.php:539
+msgid "Header border animation"
+msgstr ""
+
+#: medicenter_doctors.php:546
+msgid "Order by"
+msgstr ""
+
+#: medicenter_doctors.php:548
+msgid "Title, menu order"
+msgstr ""
+
+#: medicenter_doctors.php:548
+msgid "Menu order"
+msgstr ""
+
+#: medicenter_doctors.php:553
+msgid "Order"
+msgstr ""
+
+#: medicenter_doctors.php:555
+msgid "ascending"
+msgstr ""
+
+#: medicenter_doctors.php:555
+msgid "descending"
+msgstr ""
+
+#: medicenter_doctors.php:560
+msgid "Type"
+msgstr ""
+
+#: medicenter_doctors.php:562
+msgid "List with details"
+msgstr ""
+
+#: medicenter_doctors.php:562
+msgid "List"
+msgstr ""
+
+#: medicenter_doctors.php:562
+msgid "Details"
+msgstr ""
+
+#: medicenter_doctors.php:567
+msgid "Layout"
+msgstr ""
+
+#: medicenter_doctors.php:569
+msgid "4 columns"
+msgstr ""
+
+#: medicenter_doctors.php:569
+msgid "2 columns"
+msgstr ""
+
+#: medicenter_doctors.php:569
+msgid "3 columns"
+msgstr ""
+
+#: medicenter_doctors.php:574
+msgid "Featured image size"
+msgstr ""
+
+#: medicenter_doctors.php:581
+msgid "Hover icons"
+msgstr ""
+
+#: medicenter_doctors.php:583 medicenter_doctors.php:590
+#: medicenter_doctors.php:625 medicenter_doctors.php:633
+#: medicenter_doctors.php:725 medicenter_doctors.php:747
+#: medicenter_doctors.php:763 medicenter_doctors.php:770
+msgid "Yes"
+msgstr ""
+
+#: medicenter_doctors.php:583 medicenter_doctors.php:590
+#: medicenter_doctors.php:625 medicenter_doctors.php:633
+#: medicenter_doctors.php:725 medicenter_doctors.php:747
+#: medicenter_doctors.php:763 medicenter_doctors.php:770
+msgid "No"
+msgstr ""
+
+#: medicenter_doctors.php:588
+msgid "Title box in details"
+msgstr ""
+
+#: medicenter_doctors.php:596
+msgid "Display method"
+msgstr ""
+
+#: medicenter_doctors.php:598
+msgid "Filters"
+msgstr ""
+
+#: medicenter_doctors.php:598
+msgid "Carousel"
+msgstr ""
+
+#: medicenter_doctors.php:598
+msgid "Pagination"
+msgstr ""
+
+#: medicenter_doctors.php:598
+msgid "Simple"
+msgstr ""
+
+#: medicenter_doctors.php:605
+msgid "All filter label"
+msgstr ""
+
+#: medicenter_doctors.php:614
+msgid "Id"
+msgstr ""
+
+#: medicenter_doctors.php:617
+msgid "Please provide unique id for each carousel on the same page/post"
+msgstr ""
+
+#: medicenter_doctors.php:623
+msgid "Autoplay"
+msgstr ""
+
+#: medicenter_doctors.php:631
+msgid "Pause on hover"
+msgstr ""
+
+#: medicenter_doctors.php:634
+msgid "Affect only when autoplay is set to yes"
+msgstr ""
+
+#: medicenter_doctors.php:640
+msgid "Scroll"
+msgstr ""
+
+#: medicenter_doctors.php:643
+msgid "Number of items to scroll in one step"
+msgstr ""
+
+#: medicenter_doctors.php:649
+msgid "Effect"
+msgstr ""
+
+#: medicenter_doctors.php:652
+msgid "scroll"
+msgstr ""
+
+#: medicenter_doctors.php:653
+msgid "none"
+msgstr ""
+
+#: medicenter_doctors.php:654
+msgid "directscroll"
+msgstr ""
+
+#: medicenter_doctors.php:655
+msgid "fade"
+msgstr ""
+
+#: medicenter_doctors.php:656
+msgid "crossfade"
+msgstr ""
+
+#: medicenter_doctors.php:657
+msgid "cover"
+msgstr ""
+
+#: medicenter_doctors.php:658
+msgid "uncover"
+msgstr ""
+
+#: medicenter_doctors.php:665
+msgid "Sliding easing"
+msgstr ""
+
+#: medicenter_doctors.php:668
+msgid "swing"
+msgstr ""
+
+#: medicenter_doctors.php:669
+msgid "linear"
+msgstr ""
+
+#: medicenter_doctors.php:670
+msgid "easeInQuad"
+msgstr ""
+
+#: medicenter_doctors.php:671
+msgid "easeOutQuad"
+msgstr ""
+
+#: medicenter_doctors.php:672
+msgid "easeInOutQuad"
+msgstr ""
+
+#: medicenter_doctors.php:673
+msgid "easeInCubic"
+msgstr ""
+
+#: medicenter_doctors.php:674
+msgid "easeOutCubic"
+msgstr ""
+
+#: medicenter_doctors.php:675
+msgid "easeInOutCubic"
+msgstr ""
+
+#: medicenter_doctors.php:676
+msgid "easeInQuart"
+msgstr ""
+
+#: medicenter_doctors.php:677
+msgid "easeOutQuart"
+msgstr ""
+
+#: medicenter_doctors.php:678
+msgid "easeInOutQuart"
+msgstr ""
+
+#: medicenter_doctors.php:679
+msgid "easeInSine"
+msgstr ""
+
+#: medicenter_doctors.php:680
+msgid "easeOutSine"
+msgstr ""
+
+#: medicenter_doctors.php:681
+msgid "easeInOutSine"
+msgstr ""
+
+#: medicenter_doctors.php:682
+msgid "easeInExpo"
+msgstr ""
+
+#: medicenter_doctors.php:683
+msgid "easeOutExpo"
+msgstr ""
+
+#: medicenter_doctors.php:684
+msgid "easeInOutExpo"
+msgstr ""
+
+#: medicenter_doctors.php:685
+msgid "easeInQuint"
+msgstr ""
+
+#: medicenter_doctors.php:686
+msgid "easeOutQuint"
+msgstr ""
+
+#: medicenter_doctors.php:687
+msgid "easeInOutQuint"
+msgstr ""
+
+#: medicenter_doctors.php:688
+msgid "easeInCirc"
+msgstr ""
+
+#: medicenter_doctors.php:689
+msgid "easeOutCirc"
+msgstr ""
+
+#: medicenter_doctors.php:690
+msgid "easeInOutCirc"
+msgstr ""
+
+#: medicenter_doctors.php:691
+msgid "easeInElastic"
+msgstr ""
+
+#: medicenter_doctors.php:692
+msgid "easeOutElastic"
+msgstr ""
+
+#: medicenter_doctors.php:693
+msgid "easeInOutElastic"
+msgstr ""
+
+#: medicenter_doctors.php:694
+msgid "easeInBack"
+msgstr ""
+
+#: medicenter_doctors.php:695
+msgid "easeOutBack"
+msgstr ""
+
+#: medicenter_doctors.php:696
+msgid "easeInOutBack"
+msgstr ""
+
+#: medicenter_doctors.php:697
+msgid "easeInBounce"
+msgstr ""
+
+#: medicenter_doctors.php:698
+msgid "easeOutBounce"
+msgstr ""
+
+#: medicenter_doctors.php:699
+msgid "easeInOutBounce"
+msgstr ""
+
+#: medicenter_doctors.php:706
+msgid "Sliding transition speed (ms)"
+msgstr ""
+
+#: medicenter_doctors.php:715
+msgid "Items per page"
+msgstr ""
+
+#: medicenter_doctors.php:723
+msgid "Ajax pagination"
+msgstr ""
+
+#: medicenter_doctors.php:731
+msgid "Display selected"
+msgstr ""
+
+#: medicenter_doctors.php:738
+msgid "Display from Category"
+msgstr ""
+
+#: medicenter_doctors.php:745
+msgid "Display headers in details"
+msgstr ""
+
+#: medicenter_doctors.php:753
+msgid "Headers type"
+msgstr ""
+
+#: medicenter_doctors.php:755
+msgid "H2"
+msgstr ""
+
+#: medicenter_doctors.php:755
+msgid "H1"
+msgstr ""
+
+#: medicenter_doctors.php:755
+msgid "H3"
+msgstr ""
+
+#: medicenter_doctors.php:755
+msgid "H4"
+msgstr ""
+
+#: medicenter_doctors.php:755
+msgid "H5"
+msgstr ""
+
+#: medicenter_doctors.php:761
+msgid "Display social icons"
+msgstr ""
+
+#: medicenter_doctors.php:768
+msgid "Lightbox images loop"
+msgstr ""
+
+#: medicenter_doctors.php:775
+msgid "Extra class name"
+msgstr ""
+
+#: medicenter_doctors.php:777
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: medicenter_doctors.php:782
+msgid "Top margin"
+msgstr ""
+
+#: medicenter_doctors.php:784
+msgid "None"
+msgstr ""
+
+#: medicenter_doctors.php:784
+msgid "Page (small)"
+msgstr ""
+
+#: medicenter_doctors.php:784
+msgid "Section (large)"
+msgstr ""

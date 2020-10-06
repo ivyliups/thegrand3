@@ -1,0 +1,117 @@
+@font-face {
+  font-family: 'template-mc';
+  src:  url('fonts/template-mc.eot?gu44l6');
+  src:  url('fonts/template-mc.eot?gu44l6#iefix') format('embedded-opentype'),
+    url('fonts/template-mc.ttf?gu44l6') format('truetype'),
+    url('fonts/template-mc.woff?gu44l6') format('woff'),
+    url('fonts/template-mc.svg?gu44l6#template-mc') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="template-mc-"], [class*=" template-mc-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'template-mc' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.template-mc-whatsapp1:before {
+  content: "\e900";
+}
+.template-mc-quote-2:before {
+  content: "\45";
+}
+.template-mc-tick-1:before {
+  content: "\43";
+}
+.template-mc-tick-2:before {
+  content: "\44";
+}
+.template-mc-arrow-circle:before {
+  content: "\7a";
+}
+.template-mc-cart:before {
+  content: "\79";
+}
+.template-mc-search:before {
+  content: "\78";
+}
+.template-mc-email:before {
+  content: "\77";
+}
+.template-mc-mobile:before {
+  content: "\76";
+}
+.template-mc-location:before {
+  content: "\75";
+}
+.template-mc-plus-2:before {
+  content: "\6d";
+}
+.template-mc-remove-2:before {
+  content: "\6f";
+}
+.template-mc-minus-2:before {
+  content: "\6e";
+}
+.template-mc-arrow-horizontal-2:before {
+  content: "\63";
+}
+.template-mc-arrow-vertical-1:before {
+  content: "\62";
+}
+.template-mc-arrow-horizontal-1:before {
+  content: "\61";
+}
+.template-mc-minus-1:before {
+  content: "\6b";
+}
+.template-mc-plus-1:before {
+  content: "\6a";
+}
+.template-mc-remove-1:before {
+  content: "\6c";
+}
+.template-mc-menu-1:before {
+  content: "\70";
+}
+.template-mc-menu-2:before {
+  content: "\71";
+}
+.template-mc-comment-1:before {
+  content: "\73";
+}
+.template-mc-comment-2:before {
+  content: "\74";
+}
+.template-mc-quote:before {
+  content: "\72";
+}
+.template-mc-arrow-horizontal-3:before {
+  content: "\64";
+}
+.template-mc-arrow-vertical-3:before {
+  content: "\65";
+}
+.template-mc-arrow-horizontal-5:before {
+  content: "\68";
+}
+.template-mc-arrow-vertical-5:before {
+  content: "\69";
+}
+.template-mc-arrow-horizontal-4:before {
+  content: "\66";
+}
+.template-mc-arrow-vertical-4:before {
+  content: "\67";
+}

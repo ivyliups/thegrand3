@@ -1,0 +1,646 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Medicenter Galleries\n"
+"POT-Creation-Date: 2020-03-24 14:01+0100\n"
+"PO-Revision-Date: 2020-03-24 14:01+0100\n"
+"Last-Translator: \n"
+"Language-Team: QuanticaLabs\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin-page-permalink.php:2
+msgid "Permalink settings"
+msgstr ""
+
+#: admin/admin-page-permalink.php:23
+msgid "Slug (permalink)"
+msgstr ""
+
+#: admin/admin-page-permalink.php:33
+msgid "Gallery item label singular"
+msgstr ""
+
+#: admin/admin-page-permalink.php:43
+msgid "Gallery item label plural"
+msgstr ""
+
+#: admin/admin-page-permalink.php:52
+msgid "Save Options"
+msgstr ""
+
+#: medicenter_galleries.php:23
+msgid "Permalink"
+msgstr ""
+
+#: medicenter_galleries.php:31
+msgid "Options saved!"
+msgstr ""
+
+#: medicenter_galleries.php:34 medicenter_galleries.php:46
+#: medicenter_galleries.php:55
+msgid "Gallery Item"
+msgstr ""
+
+#: medicenter_galleries.php:35 medicenter_galleries.php:47
+#: medicenter_galleries.php:56
+msgid "Gallery Items"
+msgstr ""
+
+#: medicenter_galleries.php:68
+msgid "Add New"
+msgstr ""
+
+#: medicenter_galleries.php:69
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: medicenter_galleries.php:70
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: medicenter_galleries.php:71
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: medicenter_galleries.php:72
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: medicenter_galleries.php:73
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: medicenter_galleries.php:74
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: medicenter_galleries.php:75
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: medicenter_galleries.php:76
+#, php-format
+msgid "No %s found in Trash"
+msgstr ""
+
+#: medicenter_galleries.php:91 medicenter_galleries.php:409
+msgid "Categories"
+msgstr ""
+
+#: medicenter_galleries.php:91
+msgid "Category"
+msgstr ""
+
+#: medicenter_galleries.php:100
+msgid "Options"
+msgstr ""
+
+#: medicenter_galleries.php:167
+msgid "Subtitle"
+msgstr ""
+
+#: medicenter_galleries.php:175
+msgid "Featured image description"
+msgstr ""
+
+#: medicenter_galleries.php:183
+msgid "Video URL (optional)"
+msgstr ""
+
+#: medicenter_galleries.php:187
+msgid ""
+"For Vimeo please use https://vimeo.com/%video_id% For YouTube: https://www."
+"youtube.com/watch?v=%video_id%"
+msgstr ""
+
+#: medicenter_galleries.php:192
+msgid "Ifame URL (optional)"
+msgstr ""
+
+#: medicenter_galleries.php:200
+msgid "External URL (optional)"
+msgstr ""
+
+#: medicenter_galleries.php:208
+msgid "External URL target"
+msgstr ""
+
+#: medicenter_galleries.php:212 medicenter_galleries.php:259
+msgid "same window"
+msgstr ""
+
+#: medicenter_galleries.php:213 medicenter_galleries.php:260
+msgid "new window"
+msgstr ""
+
+#: medicenter_galleries.php:222
+msgid "Social icons"
+msgstr ""
+
+#: medicenter_galleries.php:233
+msgid "Icon type"
+msgstr ""
+
+#: medicenter_galleries.php:247
+msgid "Icon url"
+msgstr ""
+
+#: medicenter_galleries.php:255
+msgid "Icon target"
+msgstr ""
+
+#: medicenter_galleries.php:272
+msgid "Add icon"
+msgstr ""
+
+#: medicenter_galleries.php:279
+msgid "Additional featured images"
+msgstr ""
+
+#: medicenter_galleries.php:290
+msgid "Image url"
+msgstr ""
+
+#: medicenter_galleries.php:295
+msgid "Browse"
+msgstr ""
+
+#: medicenter_galleries.php:300
+msgid "Image description"
+msgstr ""
+
+#: medicenter_galleries.php:308
+msgid "Video url"
+msgstr ""
+
+#: medicenter_galleries.php:316
+msgid "Iframe url"
+msgstr ""
+
+#: medicenter_galleries.php:324
+msgid "External url"
+msgstr ""
+
+#: medicenter_galleries.php:338
+msgid "Add image"
+msgstr ""
+
+#: medicenter_galleries.php:344
+msgid "Featured images lightbox loop"
+msgstr ""
+
+#: medicenter_galleries.php:348 medicenter_galleries.php:535
+msgid "yes"
+msgstr ""
+
+#: medicenter_galleries.php:349 medicenter_galleries.php:535
+msgid "no"
+msgstr ""
+
+#: medicenter_galleries.php:405
+msgid "Title"
+msgstr ""
+
+#: medicenter_galleries.php:406
+msgid "Video URL"
+msgstr ""
+
+#: medicenter_galleries.php:407
+msgid "Iframe URL"
+msgstr ""
+
+#: medicenter_galleries.php:408
+msgid "External URL"
+msgstr ""
+
+#: medicenter_galleries.php:410 medicenter_galleries.php:547
+msgid "Order"
+msgstr ""
+
+#: medicenter_galleries.php:411 medicenter_galleries.php:542
+msgid "Date"
+msgstr ""
+
+#: medicenter_galleries.php:480 medicenter_galleries.php:487
+msgid "All"
+msgstr ""
+
+#: medicenter_galleries.php:496
+msgid "Default"
+msgstr ""
+
+#: medicenter_galleries.php:497
+msgid "full (original image resolution)"
+msgstr ""
+
+#: medicenter_galleries.php:515
+msgid "Gallery items list"
+msgstr ""
+
+#: medicenter_galleries.php:521
+msgid "MediCenter"
+msgstr ""
+
+#: medicenter_galleries.php:526
+msgid "Header"
+msgstr ""
+
+#: medicenter_galleries.php:533
+msgid "Header border animation"
+msgstr ""
+
+#: medicenter_galleries.php:540
+msgid "Order by"
+msgstr ""
+
+#: medicenter_galleries.php:542
+msgid "Title, menu order"
+msgstr ""
+
+#: medicenter_galleries.php:542
+msgid "Menu order"
+msgstr ""
+
+#: medicenter_galleries.php:549
+msgid "ascending"
+msgstr ""
+
+#: medicenter_galleries.php:549
+msgid "descending"
+msgstr ""
+
+#: medicenter_galleries.php:554
+msgid "Type"
+msgstr ""
+
+#: medicenter_galleries.php:556
+msgid "List with details"
+msgstr ""
+
+#: medicenter_galleries.php:556
+msgid "List"
+msgstr ""
+
+#: medicenter_galleries.php:556
+msgid "Details"
+msgstr ""
+
+#: medicenter_galleries.php:561
+msgid "Layout"
+msgstr ""
+
+#: medicenter_galleries.php:563
+msgid "Item width 285px"
+msgstr ""
+
+#: medicenter_galleries.php:563
+msgid "Item width 600px"
+msgstr ""
+
+#: medicenter_galleries.php:563
+msgid "Item width 390px"
+msgstr ""
+
+#: medicenter_galleries.php:568
+msgid "Featured image size"
+msgstr ""
+
+#: medicenter_galleries.php:575
+msgid "Hover icons"
+msgstr ""
+
+#: medicenter_galleries.php:577 medicenter_galleries.php:584
+#: medicenter_galleries.php:627 medicenter_galleries.php:635
+#: medicenter_galleries.php:727 medicenter_galleries.php:749
+#: medicenter_galleries.php:765 medicenter_galleries.php:772
+msgid "Yes"
+msgstr ""
+
+#: medicenter_galleries.php:577 medicenter_galleries.php:584
+#: medicenter_galleries.php:627 medicenter_galleries.php:635
+#: medicenter_galleries.php:727 medicenter_galleries.php:749
+#: medicenter_galleries.php:765 medicenter_galleries.php:772
+msgid "No"
+msgstr ""
+
+#: medicenter_galleries.php:582
+msgid "Title box in details"
+msgstr ""
+
+#: medicenter_galleries.php:590
+msgid "Details page"
+msgstr ""
+
+#: medicenter_galleries.php:598
+msgid "Display method"
+msgstr ""
+
+#: medicenter_galleries.php:600
+msgid "Filters"
+msgstr ""
+
+#: medicenter_galleries.php:600
+msgid "Carousel"
+msgstr ""
+
+#: medicenter_galleries.php:600
+msgid "Pagination"
+msgstr ""
+
+#: medicenter_galleries.php:600
+msgid "Simple"
+msgstr ""
+
+#: medicenter_galleries.php:607
+msgid "All filter label"
+msgstr ""
+
+#: medicenter_galleries.php:616
+msgid "Id"
+msgstr ""
+
+#: medicenter_galleries.php:619
+msgid "Please provide unique id for each carousel on the same page/post"
+msgstr ""
+
+#: medicenter_galleries.php:625
+msgid "Autoplay"
+msgstr ""
+
+#: medicenter_galleries.php:633
+msgid "Pause on hover"
+msgstr ""
+
+#: medicenter_galleries.php:636
+msgid "Affect only when autoplay is set to yes"
+msgstr ""
+
+#: medicenter_galleries.php:642
+msgid "Scroll"
+msgstr ""
+
+#: medicenter_galleries.php:645
+msgid "Number of items to scroll in one step"
+msgstr ""
+
+#: medicenter_galleries.php:651
+msgid "Effect"
+msgstr ""
+
+#: medicenter_galleries.php:654
+msgid "scroll"
+msgstr ""
+
+#: medicenter_galleries.php:655
+msgid "none"
+msgstr ""
+
+#: medicenter_galleries.php:656
+msgid "directscroll"
+msgstr ""
+
+#: medicenter_galleries.php:657
+msgid "fade"
+msgstr ""
+
+#: medicenter_galleries.php:658
+msgid "crossfade"
+msgstr ""
+
+#: medicenter_galleries.php:659
+msgid "cover"
+msgstr ""
+
+#: medicenter_galleries.php:660
+msgid "uncover"
+msgstr ""
+
+#: medicenter_galleries.php:667
+msgid "Sliding easing"
+msgstr ""
+
+#: medicenter_galleries.php:670
+msgid "swing"
+msgstr ""
+
+#: medicenter_galleries.php:671
+msgid "linear"
+msgstr ""
+
+#: medicenter_galleries.php:672
+msgid "easeInQuad"
+msgstr ""
+
+#: medicenter_galleries.php:673
+msgid "easeOutQuad"
+msgstr ""
+
+#: medicenter_galleries.php:674
+msgid "easeInOutQuad"
+msgstr ""
+
+#: medicenter_galleries.php:675
+msgid "easeInCubic"
+msgstr ""
+
+#: medicenter_galleries.php:676
+msgid "easeOutCubic"
+msgstr ""
+
+#: medicenter_galleries.php:677
+msgid "easeInOutCubic"
+msgstr ""
+
+#: medicenter_galleries.php:678
+msgid "easeInQuart"
+msgstr ""
+
+#: medicenter_galleries.php:679
+msgid "easeOutQuart"
+msgstr ""
+
+#: medicenter_galleries.php:680
+msgid "easeInOutQuart"
+msgstr ""
+
+#: medicenter_galleries.php:681
+msgid "easeInSine"
+msgstr ""
+
+#: medicenter_galleries.php:682
+msgid "easeOutSine"
+msgstr ""
+
+#: medicenter_galleries.php:683
+msgid "easeInOutSine"
+msgstr ""
+
+#: medicenter_galleries.php:684
+msgid "easeInExpo"
+msgstr ""
+
+#: medicenter_galleries.php:685
+msgid "easeOutExpo"
+msgstr ""
+
+#: medicenter_galleries.php:686
+msgid "easeInOutExpo"
+msgstr ""
+
+#: medicenter_galleries.php:687
+msgid "easeInQuint"
+msgstr ""
+
+#: medicenter_galleries.php:688
+msgid "easeOutQuint"
+msgstr ""
+
+#: medicenter_galleries.php:689
+msgid "easeInOutQuint"
+msgstr ""
+
+#: medicenter_galleries.php:690
+msgid "easeInCirc"
+msgstr ""
+
+#: medicenter_galleries.php:691
+msgid "easeOutCirc"
+msgstr ""
+
+#: medicenter_galleries.php:692
+msgid "easeInOutCirc"
+msgstr ""
+
+#: medicenter_galleries.php:693
+msgid "easeInElastic"
+msgstr ""
+
+#: medicenter_galleries.php:694
+msgid "easeOutElastic"
+msgstr ""
+
+#: medicenter_galleries.php:695
+msgid "easeInOutElastic"
+msgstr ""
+
+#: medicenter_galleries.php:696
+msgid "easeInBack"
+msgstr ""
+
+#: medicenter_galleries.php:697
+msgid "easeOutBack"
+msgstr ""
+
+#: medicenter_galleries.php:698
+msgid "easeInOutBack"
+msgstr ""
+
+#: medicenter_galleries.php:699
+msgid "easeInBounce"
+msgstr ""
+
+#: medicenter_galleries.php:700
+msgid "easeOutBounce"
+msgstr ""
+
+#: medicenter_galleries.php:701
+msgid "easeInOutBounce"
+msgstr ""
+
+#: medicenter_galleries.php:708
+msgid "Sliding transition speed (ms)"
+msgstr ""
+
+#: medicenter_galleries.php:717
+msgid "Items per page"
+msgstr ""
+
+#: medicenter_galleries.php:725
+msgid "Ajax pagination"
+msgstr ""
+
+#: medicenter_galleries.php:733
+msgid "Display selected"
+msgstr ""
+
+#: medicenter_galleries.php:740
+msgid "Display from Category"
+msgstr ""
+
+#: medicenter_galleries.php:747
+msgid "Display headers in details"
+msgstr ""
+
+#: medicenter_galleries.php:755
+msgid "Headers type"
+msgstr ""
+
+#: medicenter_galleries.php:757
+msgid "H2"
+msgstr ""
+
+#: medicenter_galleries.php:757
+msgid "H1"
+msgstr ""
+
+#: medicenter_galleries.php:757
+msgid "H3"
+msgstr ""
+
+#: medicenter_galleries.php:757
+msgid "H4"
+msgstr ""
+
+#: medicenter_galleries.php:757
+msgid "H5"
+msgstr ""
+
+#: medicenter_galleries.php:763
+msgid "Display social icons"
+msgstr ""
+
+#: medicenter_galleries.php:770
+msgid "Lightbox images loop"
+msgstr ""
+
+#: medicenter_galleries.php:777
+msgid "Extra class name"
+msgstr ""
+
+#: medicenter_galleries.php:779
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: medicenter_galleries.php:784
+msgid "Top margin"
+msgstr ""
+
+#: medicenter_galleries.php:786
+msgid "None"
+msgstr ""
+
+#: medicenter_galleries.php:786
+msgid "Page (small)"
+msgstr ""
+
+#: medicenter_galleries.php:786
+msgid "Section (large)"
+msgstr ""

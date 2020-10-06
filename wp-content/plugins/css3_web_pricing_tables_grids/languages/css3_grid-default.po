@@ -1,0 +1,1462 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CSS3 Responsive Web Pricing Tables Grids for WordPress\n"
+"POT-Creation-Date: 2020-03-26 16:41+0100\n"
+"PO-Revision-Date: 2020-03-26 16:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: QuanticaLabs\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: css3_web_pricing_tables_grids.php:22
+msgid "Settings"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:82 css3_web_pricing_tables_grids.php:862
+#: css3_web_pricing_tables_grids.php:870 css3_web_pricing_tables_grids.php:878
+msgid "Screen width"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:83 css3_web_pricing_tables_grids.php:886
+#: css3_web_pricing_tables_grids.php:894 css3_web_pricing_tables_grids.php:902
+msgid "Responsive button width"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:84 css3_web_pricing_tables_grids.php:973
+#: css3_web_pricing_tables_grids.php:981 css3_web_pricing_tables_grids.php:989
+#: css3_web_pricing_tables_grids.php:1042
+#: css3_web_pricing_tables_grids.php:1050
+#: css3_web_pricing_tables_grids.php:1058
+#: css3_web_pricing_tables_grids.php:1111
+#: css3_web_pricing_tables_grids.php:1119
+#: css3_web_pricing_tables_grids.php:1127
+#: css3_web_pricing_tables_grids.php:1180
+#: css3_web_pricing_tables_grids.php:1188
+#: css3_web_pricing_tables_grids.php:1196
+#: css3_web_pricing_tables_grids.php:1249
+#: css3_web_pricing_tables_grids.php:1257
+#: css3_web_pricing_tables_grids.php:1265
+msgid "Responsive font size"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:85 css3_web_pricing_tables_grids.php:973
+#: css3_web_pricing_tables_grids.php:981 css3_web_pricing_tables_grids.php:989
+#: css3_web_pricing_tables_grids.php:1042
+#: css3_web_pricing_tables_grids.php:1050
+#: css3_web_pricing_tables_grids.php:1058
+#: css3_web_pricing_tables_grids.php:1111
+#: css3_web_pricing_tables_grids.php:1119
+#: css3_web_pricing_tables_grids.php:1127
+#: css3_web_pricing_tables_grids.php:1180
+#: css3_web_pricing_tables_grids.php:1188
+#: css3_web_pricing_tables_grids.php:1196
+#: css3_web_pricing_tables_grids.php:1249
+#: css3_web_pricing_tables_grids.php:1257
+#: css3_web_pricing_tables_grids.php:1265
+msgid "(in px)"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:86 css3_web_pricing_tables_grids.php:110
+#: css3_web_pricing_tables_grids.php:1861
+#: css3_web_pricing_tables_grids.php:1863
+#: css3_web_pricing_tables_grids.php:1865
+#: css3_web_pricing_tables_grids.php:1967
+#: css3_web_pricing_tables_grids.php:1969
+#: css3_web_pricing_tables_grids.php:1971
+#: css3_web_pricing_tables_grids.php:2073
+#: css3_web_pricing_tables_grids.php:2075
+#: css3_web_pricing_tables_grids.php:2077
+msgid "responsive width"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:87 css3_web_pricing_tables_grids.php:2180
+#: css3_web_pricing_tables_grids.php:2182
+#: css3_web_pricing_tables_grids.php:2184
+#: css3_web_pricing_tables_grids.php:2212
+#: css3_web_pricing_tables_grids.php:2214
+#: css3_web_pricing_tables_grids.php:2216
+#: css3_web_pricing_tables_grids.php:2244
+#: css3_web_pricing_tables_grids.php:2246
+#: css3_web_pricing_tables_grids.php:2248
+#: css3_web_pricing_tables_grids.php:2276
+#: css3_web_pricing_tables_grids.php:2278
+#: css3_web_pricing_tables_grids.php:2280
+#: css3_web_pricing_tables_grids.php:2308
+#: css3_web_pricing_tables_grids.php:2310
+#: css3_web_pricing_tables_grids.php:2312
+#: css3_web_pricing_tables_grids.php:2340
+#: css3_web_pricing_tables_grids.php:2342
+#: css3_web_pricing_tables_grids.php:2344
+#: css3_web_pricing_tables_grids.php:2372
+#: css3_web_pricing_tables_grids.php:2374
+#: css3_web_pricing_tables_grids.php:2376
+#: css3_web_pricing_tables_grids.php:2404
+#: css3_web_pricing_tables_grids.php:2406
+#: css3_web_pricing_tables_grids.php:2408
+#: css3_web_pricing_tables_grids.php:2436
+#: css3_web_pricing_tables_grids.php:2438
+#: css3_web_pricing_tables_grids.php:2440
+msgid "responsive height"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:88 css3_web_pricing_tables_grids.php:1861
+#: css3_web_pricing_tables_grids.php:1863
+#: css3_web_pricing_tables_grids.php:1865
+#: css3_web_pricing_tables_grids.php:1967
+#: css3_web_pricing_tables_grids.php:1969
+#: css3_web_pricing_tables_grids.php:1971
+#: css3_web_pricing_tables_grids.php:2073
+#: css3_web_pricing_tables_grids.php:2075
+#: css3_web_pricing_tables_grids.php:2077
+#: css3_web_pricing_tables_grids.php:2180
+#: css3_web_pricing_tables_grids.php:2182
+#: css3_web_pricing_tables_grids.php:2184
+#: css3_web_pricing_tables_grids.php:2212
+#: css3_web_pricing_tables_grids.php:2214
+#: css3_web_pricing_tables_grids.php:2216
+#: css3_web_pricing_tables_grids.php:2244
+#: css3_web_pricing_tables_grids.php:2246
+#: css3_web_pricing_tables_grids.php:2248
+#: css3_web_pricing_tables_grids.php:2276
+#: css3_web_pricing_tables_grids.php:2278
+#: css3_web_pricing_tables_grids.php:2280
+#: css3_web_pricing_tables_grids.php:2308
+#: css3_web_pricing_tables_grids.php:2310
+#: css3_web_pricing_tables_grids.php:2312
+#: css3_web_pricing_tables_grids.php:2340
+#: css3_web_pricing_tables_grids.php:2342
+#: css3_web_pricing_tables_grids.php:2344
+#: css3_web_pricing_tables_grids.php:2372
+#: css3_web_pricing_tables_grids.php:2374
+#: css3_web_pricing_tables_grids.php:2376
+#: css3_web_pricing_tables_grids.php:2404
+#: css3_web_pricing_tables_grids.php:2406
+#: css3_web_pricing_tables_grids.php:2408
+#: css3_web_pricing_tables_grids.php:2436
+#: css3_web_pricing_tables_grids.php:2438
+#: css3_web_pricing_tables_grids.php:2440
+msgid "(optional)"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:89 css3_web_pricing_tables_grids.php:531
+#: css3_web_pricing_tables_grids.php:1720
+#: css3_web_pricing_tables_grids.php:1742
+msgid "choose shortcode..."
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:90 css3_web_pricing_tables_grids.php:546
+#: css3_web_pricing_tables_grids.php:547 css3_web_pricing_tables_grids.php:548
+#: css3_web_pricing_tables_grids.php:549
+msgid "button style"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:91 css3_web_pricing_tables_grids.php:535
+#: css3_web_pricing_tables_grids.php:545
+#: css3_web_pricing_tables_grids.php:1722
+#: css3_web_pricing_tables_grids.php:1725
+#: css3_web_pricing_tables_grids.php:1744
+#: css3_web_pricing_tables_grids.php:1747
+msgid "price"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:92 css3_web_pricing_tables_grids.php:1716
+#: css3_web_pricing_tables_grids.php:1738
+msgid "Price"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:93 css3_web_pricing_tables_grids.php:534
+#: css3_web_pricing_tables_grids.php:544
+msgid "header title"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:94 css3_web_pricing_tables_grids.php:533
+#: css3_web_pricing_tables_grids.php:543
+msgid "caption"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:95 css3_web_pricing_tables_grids.php:536
+msgid "button"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:96 css3_web_pricing_tables_grids.php:537
+msgid "button orange"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:97 css3_web_pricing_tables_grids.php:538
+msgid "button yellow"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:98 css3_web_pricing_tables_grids.php:539
+msgid "button lightgreen"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:99 css3_web_pricing_tables_grids.php:540
+msgid "button green"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:100 css3_web_pricing_tables_grids.php:532
+#: css3_web_pricing_tables_grids.php:542 css3_web_pricing_tables_grids.php:714
+#: css3_web_pricing_tables_grids.php:715
+#: css3_web_pricing_tables_grids.php:1721
+#: css3_web_pricing_tables_grids.php:1724
+#: css3_web_pricing_tables_grids.php:1743
+#: css3_web_pricing_tables_grids.php:1746
+msgid "Table"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:101 css3_web_pricing_tables_grids.php:551
+#: css3_web_pricing_tables_grids.php:567
+msgid "Yes icons"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:102 css3_web_pricing_tables_grids.php:557
+#: css3_web_pricing_tables_grids.php:585
+msgid "No icons"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:103 css3_web_pricing_tables_grids.php:591
+#: css3_web_pricing_tables_grids.php:597
+msgid "No icons(old)"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:104 css3_web_pricing_tables_grids.php:573
+#: css3_web_pricing_tables_grids.php:579
+msgid "Yes icons(old)"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:105 css3_web_pricing_tables_grids.php:605
+msgid "tooltip: "
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:106
+#: css3_web_pricing_tables_grids.php:1847
+msgid "Rows configuration"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:107
+#: css3_web_pricing_tables_grids.php:2178
+#: css3_web_pricing_tables_grids.php:2210
+#: css3_web_pricing_tables_grids.php:2242
+#: css3_web_pricing_tables_grids.php:2274
+#: css3_web_pricing_tables_grids.php:2306
+#: css3_web_pricing_tables_grids.php:2338
+#: css3_web_pricing_tables_grids.php:2370
+#: css3_web_pricing_tables_grids.php:2402
+#: css3_web_pricing_tables_grids.php:2434
+msgid "height (optional in px)"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:108
+#: css3_web_pricing_tables_grids.php:2186
+#: css3_web_pricing_tables_grids.php:2218
+#: css3_web_pricing_tables_grids.php:2250
+#: css3_web_pricing_tables_grids.php:2282
+#: css3_web_pricing_tables_grids.php:2314
+#: css3_web_pricing_tables_grids.php:2346
+#: css3_web_pricing_tables_grids.php:2378
+#: css3_web_pricing_tables_grids.php:2410
+#: css3_web_pricing_tables_grids.php:2442
+msgid "padding top (optional in px)"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:109
+#: css3_web_pricing_tables_grids.php:2187
+#: css3_web_pricing_tables_grids.php:2219
+#: css3_web_pricing_tables_grids.php:2251
+#: css3_web_pricing_tables_grids.php:2283
+#: css3_web_pricing_tables_grids.php:2315
+#: css3_web_pricing_tables_grids.php:2347
+#: css3_web_pricing_tables_grids.php:2379
+#: css3_web_pricing_tables_grids.php:2411
+#: css3_web_pricing_tables_grids.php:2443
+msgid "padding bottom (optional in px)"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:111
+#: css3_web_pricing_tables_grids.php:1713
+#: css3_web_pricing_tables_grids.php:1735
+#: css3_web_pricing_tables_grids.php:1857
+#: css3_web_pricing_tables_grids.php:1963
+#: css3_web_pricing_tables_grids.php:2069
+msgid "Column"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:112
+#: css3_web_pricing_tables_grids.php:1859
+#: css3_web_pricing_tables_grids.php:1965
+#: css3_web_pricing_tables_grids.php:2071
+msgid "width (optional):"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:113
+#: css3_web_pricing_tables_grids.php:1867
+#: css3_web_pricing_tables_grids.php:1973
+#: css3_web_pricing_tables_grids.php:2079
+msgid "aligment (optional):"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:114 css3_web_pricing_tables_grids.php:645
+#: css3_web_pricing_tables_grids.php:1869
+#: css3_web_pricing_tables_grids.php:1889
+#: css3_web_pricing_tables_grids.php:1975
+#: css3_web_pricing_tables_grids.php:1995
+#: css3_web_pricing_tables_grids.php:2081
+#: css3_web_pricing_tables_grids.php:2101
+msgid "choose..."
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:115
+#: css3_web_pricing_tables_grids.php:1681
+#: css3_web_pricing_tables_grids.php:1853
+#: css3_web_pricing_tables_grids.php:1870
+#: css3_web_pricing_tables_grids.php:1959
+#: css3_web_pricing_tables_grids.php:1976
+#: css3_web_pricing_tables_grids.php:2065
+#: css3_web_pricing_tables_grids.php:2082
+msgid "left"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:116
+#: css3_web_pricing_tables_grids.php:1682
+#: css3_web_pricing_tables_grids.php:1871
+#: css3_web_pricing_tables_grids.php:1977
+#: css3_web_pricing_tables_grids.php:2083
+msgid "center"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:117
+#: css3_web_pricing_tables_grids.php:1683
+#: css3_web_pricing_tables_grids.php:1854
+#: css3_web_pricing_tables_grids.php:1872
+#: css3_web_pricing_tables_grids.php:1960
+#: css3_web_pricing_tables_grids.php:1978
+#: css3_web_pricing_tables_grids.php:2066
+#: css3_web_pricing_tables_grids.php:2084
+msgid "right"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:118
+#: css3_web_pricing_tables_grids.php:1875
+#: css3_web_pricing_tables_grids.php:1981
+#: css3_web_pricing_tables_grids.php:2087
+msgid "active (optional):"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:119 css3_web_pricing_tables_grids.php:845
+#: css3_web_pricing_tables_grids.php:915
+#: css3_web_pricing_tables_grids.php:1284
+#: css3_web_pricing_tables_grids.php:1313
+#: css3_web_pricing_tables_grids.php:1325
+#: css3_web_pricing_tables_grids.php:1410
+#: css3_web_pricing_tables_grids.php:1466
+#: css3_web_pricing_tables_grids.php:1477
+#: css3_web_pricing_tables_grids.php:1488
+#: css3_web_pricing_tables_grids.php:1500
+#: css3_web_pricing_tables_grids.php:1520
+#: css3_web_pricing_tables_grids.php:1670
+#: css3_web_pricing_tables_grids.php:1878
+#: css3_web_pricing_tables_grids.php:1884
+#: css3_web_pricing_tables_grids.php:1984
+#: css3_web_pricing_tables_grids.php:1990
+#: css3_web_pricing_tables_grids.php:2090
+#: css3_web_pricing_tables_grids.php:2096
+msgid "yes"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:120 css3_web_pricing_tables_grids.php:844
+#: css3_web_pricing_tables_grids.php:914
+#: css3_web_pricing_tables_grids.php:1283
+#: css3_web_pricing_tables_grids.php:1314
+#: css3_web_pricing_tables_grids.php:1326
+#: css3_web_pricing_tables_grids.php:1409
+#: css3_web_pricing_tables_grids.php:1467
+#: css3_web_pricing_tables_grids.php:1478
+#: css3_web_pricing_tables_grids.php:1489
+#: css3_web_pricing_tables_grids.php:1499
+#: css3_web_pricing_tables_grids.php:1519
+#: css3_web_pricing_tables_grids.php:1669
+#: css3_web_pricing_tables_grids.php:1877
+#: css3_web_pricing_tables_grids.php:1883
+#: css3_web_pricing_tables_grids.php:1983
+#: css3_web_pricing_tables_grids.php:1989
+#: css3_web_pricing_tables_grids.php:2089
+#: css3_web_pricing_tables_grids.php:2095
+msgid "no"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:121
+#: css3_web_pricing_tables_grids.php:1881
+#: css3_web_pricing_tables_grids.php:1987
+#: css3_web_pricing_tables_grids.php:2093
+msgid "disable/hidden (optional):"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:122
+#: css3_web_pricing_tables_grids.php:1887
+#: css3_web_pricing_tables_grids.php:1993
+#: css3_web_pricing_tables_grids.php:2099
+msgid "ribbon (optional):"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:123 css3_web_pricing_tables_grids.php:155
+#: css3_web_pricing_tables_grids.php:1920
+#: css3_web_pricing_tables_grids.php:1952
+#: css3_web_pricing_tables_grids.php:2026
+#: css3_web_pricing_tables_grids.php:2058
+#: css3_web_pricing_tables_grids.php:2132
+#: css3_web_pricing_tables_grids.php:2164
+msgid "trial"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:124
+#: css3_web_pricing_tables_grids.php:1919
+#: css3_web_pricing_tables_grids.php:1951
+#: css3_web_pricing_tables_grids.php:2025
+#: css3_web_pricing_tables_grids.php:2057
+#: css3_web_pricing_tables_grids.php:2131
+#: css3_web_pricing_tables_grids.php:2163
+msgid "top (uppercase)"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:125
+#: css3_web_pricing_tables_grids.php:1455
+#: css3_web_pricing_tables_grids.php:1918
+#: css3_web_pricing_tables_grids.php:1950
+#: css3_web_pricing_tables_grids.php:2024
+#: css3_web_pricing_tables_grids.php:2056
+#: css3_web_pricing_tables_grids.php:2130
+#: css3_web_pricing_tables_grids.php:2162
+msgid "top"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:126
+#: css3_web_pricing_tables_grids.php:1917
+#: css3_web_pricing_tables_grids.php:1949
+#: css3_web_pricing_tables_grids.php:2023
+#: css3_web_pricing_tables_grids.php:2055
+#: css3_web_pricing_tables_grids.php:2129
+#: css3_web_pricing_tables_grids.php:2161
+msgid "save (uppercase)"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:127
+#: css3_web_pricing_tables_grids.php:1916
+#: css3_web_pricing_tables_grids.php:1948
+#: css3_web_pricing_tables_grids.php:2022
+#: css3_web_pricing_tables_grids.php:2054
+#: css3_web_pricing_tables_grids.php:2128
+#: css3_web_pricing_tables_grids.php:2160
+msgid "save"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:128
+#: css3_web_pricing_tables_grids.php:1915
+#: css3_web_pricing_tables_grids.php:1947
+#: css3_web_pricing_tables_grids.php:2021
+#: css3_web_pricing_tables_grids.php:2053
+#: css3_web_pricing_tables_grids.php:2127
+#: css3_web_pricing_tables_grids.php:2159
+msgid "sale"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:129
+#: css3_web_pricing_tables_grids.php:1914
+#: css3_web_pricing_tables_grids.php:1946
+#: css3_web_pricing_tables_grids.php:2020
+#: css3_web_pricing_tables_grids.php:2052
+#: css3_web_pricing_tables_grids.php:2126
+#: css3_web_pricing_tables_grids.php:2158
+msgid "pro"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:130
+#: css3_web_pricing_tables_grids.php:1913
+#: css3_web_pricing_tables_grids.php:1945
+#: css3_web_pricing_tables_grids.php:2019
+#: css3_web_pricing_tables_grids.php:2051
+#: css3_web_pricing_tables_grids.php:2125
+#: css3_web_pricing_tables_grids.php:2157
+msgid "pack"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:131
+#: css3_web_pricing_tables_grids.php:1903
+#: css3_web_pricing_tables_grids.php:1935
+#: css3_web_pricing_tables_grids.php:2009
+#: css3_web_pricing_tables_grids.php:2041
+#: css3_web_pricing_tables_grids.php:2115
+#: css3_web_pricing_tables_grids.php:2147
+#, php-format
+msgid "5% off"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:132
+#: css3_web_pricing_tables_grids.php:1904
+#: css3_web_pricing_tables_grids.php:1936
+#: css3_web_pricing_tables_grids.php:2010
+#: css3_web_pricing_tables_grids.php:2042
+#: css3_web_pricing_tables_grids.php:2116
+#: css3_web_pricing_tables_grids.php:2148
+#, php-format
+msgid "10% off"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:133
+#: css3_web_pricing_tables_grids.php:1905
+#: css3_web_pricing_tables_grids.php:1937
+#: css3_web_pricing_tables_grids.php:2011
+#: css3_web_pricing_tables_grids.php:2043
+#: css3_web_pricing_tables_grids.php:2117
+#: css3_web_pricing_tables_grids.php:2149
+#, php-format
+msgid "15% off"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:134
+#: css3_web_pricing_tables_grids.php:1906
+#: css3_web_pricing_tables_grids.php:1938
+#: css3_web_pricing_tables_grids.php:2012
+#: css3_web_pricing_tables_grids.php:2044
+#: css3_web_pricing_tables_grids.php:2118
+#: css3_web_pricing_tables_grids.php:2150
+#, php-format
+msgid "20% off"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:135
+#: css3_web_pricing_tables_grids.php:1907
+#: css3_web_pricing_tables_grids.php:1939
+#: css3_web_pricing_tables_grids.php:2013
+#: css3_web_pricing_tables_grids.php:2045
+#: css3_web_pricing_tables_grids.php:2119
+#: css3_web_pricing_tables_grids.php:2151
+#, php-format
+msgid "25% off"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:136
+#: css3_web_pricing_tables_grids.php:1908
+#: css3_web_pricing_tables_grids.php:1940
+#: css3_web_pricing_tables_grids.php:2014
+#: css3_web_pricing_tables_grids.php:2046
+#: css3_web_pricing_tables_grids.php:2120
+#: css3_web_pricing_tables_grids.php:2152
+#, php-format
+msgid "30% off"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:137
+#: css3_web_pricing_tables_grids.php:1909
+#: css3_web_pricing_tables_grids.php:1941
+#: css3_web_pricing_tables_grids.php:2015
+#: css3_web_pricing_tables_grids.php:2047
+#: css3_web_pricing_tables_grids.php:2121
+#: css3_web_pricing_tables_grids.php:2153
+#, php-format
+msgid "35% off"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:138
+#: css3_web_pricing_tables_grids.php:1910
+#: css3_web_pricing_tables_grids.php:1942
+#: css3_web_pricing_tables_grids.php:2016
+#: css3_web_pricing_tables_grids.php:2048
+#: css3_web_pricing_tables_grids.php:2122
+#: css3_web_pricing_tables_grids.php:2154
+#, php-format
+msgid "40% off"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:139
+#: css3_web_pricing_tables_grids.php:1911
+#: css3_web_pricing_tables_grids.php:1943
+#: css3_web_pricing_tables_grids.php:2017
+#: css3_web_pricing_tables_grids.php:2049
+#: css3_web_pricing_tables_grids.php:2123
+#: css3_web_pricing_tables_grids.php:2155
+#, php-format
+msgid "50% off"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:140
+#: css3_web_pricing_tables_grids.php:1912
+#: css3_web_pricing_tables_grids.php:1944
+#: css3_web_pricing_tables_grids.php:2018
+#: css3_web_pricing_tables_grids.php:2050
+#: css3_web_pricing_tables_grids.php:2124
+#: css3_web_pricing_tables_grids.php:2156
+#, php-format
+msgid "75% off"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:141
+#: css3_web_pricing_tables_grids.php:1902
+#: css3_web_pricing_tables_grids.php:1934
+#: css3_web_pricing_tables_grids.php:2008
+#: css3_web_pricing_tables_grids.php:2040
+#: css3_web_pricing_tables_grids.php:2114
+#: css3_web_pricing_tables_grids.php:2146
+msgid "no. 1"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:142
+#: css3_web_pricing_tables_grids.php:1901
+#: css3_web_pricing_tables_grids.php:1933
+#: css3_web_pricing_tables_grids.php:2007
+#: css3_web_pricing_tables_grids.php:2039
+#: css3_web_pricing_tables_grids.php:2113
+#: css3_web_pricing_tables_grids.php:2145
+msgid "new (uppercase)"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:143
+#: css3_web_pricing_tables_grids.php:1900
+#: css3_web_pricing_tables_grids.php:1932
+#: css3_web_pricing_tables_grids.php:2006
+#: css3_web_pricing_tables_grids.php:2038
+#: css3_web_pricing_tables_grids.php:2112
+#: css3_web_pricing_tables_grids.php:2144
+msgid "new"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:144
+#: css3_web_pricing_tables_grids.php:1899
+#: css3_web_pricing_tables_grids.php:1931
+#: css3_web_pricing_tables_grids.php:2005
+#: css3_web_pricing_tables_grids.php:2037
+#: css3_web_pricing_tables_grids.php:2111
+#: css3_web_pricing_tables_grids.php:2143
+msgid "hot (uppercase)"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:145
+#: css3_web_pricing_tables_grids.php:1898
+#: css3_web_pricing_tables_grids.php:1930
+#: css3_web_pricing_tables_grids.php:2004
+#: css3_web_pricing_tables_grids.php:2036
+#: css3_web_pricing_tables_grids.php:2110
+#: css3_web_pricing_tables_grids.php:2142
+msgid "hot"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:146
+#: css3_web_pricing_tables_grids.php:1897
+#: css3_web_pricing_tables_grids.php:1929
+#: css3_web_pricing_tables_grids.php:2003
+#: css3_web_pricing_tables_grids.php:2035
+#: css3_web_pricing_tables_grids.php:2109
+#: css3_web_pricing_tables_grids.php:2141
+msgid "heart"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:147
+#: css3_web_pricing_tables_grids.php:1896
+#: css3_web_pricing_tables_grids.php:1928
+#: css3_web_pricing_tables_grids.php:2002
+#: css3_web_pricing_tables_grids.php:2034
+#: css3_web_pricing_tables_grids.php:2108
+#: css3_web_pricing_tables_grids.php:2140
+msgid "gift (uppercase)"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:148
+#: css3_web_pricing_tables_grids.php:1895
+#: css3_web_pricing_tables_grids.php:1927
+#: css3_web_pricing_tables_grids.php:2001
+#: css3_web_pricing_tables_grids.php:2033
+#: css3_web_pricing_tables_grids.php:2107
+#: css3_web_pricing_tables_grids.php:2139
+msgid "fresh"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:149
+#: css3_web_pricing_tables_grids.php:1894
+#: css3_web_pricing_tables_grids.php:1926
+#: css3_web_pricing_tables_grids.php:2000
+#: css3_web_pricing_tables_grids.php:2032
+#: css3_web_pricing_tables_grids.php:2106
+#: css3_web_pricing_tables_grids.php:2138
+msgid "free (uppercase)"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:150
+#: css3_web_pricing_tables_grids.php:1893
+#: css3_web_pricing_tables_grids.php:1925
+#: css3_web_pricing_tables_grids.php:1999
+#: css3_web_pricing_tables_grids.php:2031
+#: css3_web_pricing_tables_grids.php:2105
+#: css3_web_pricing_tables_grids.php:2137
+msgid "free"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:151
+#: css3_web_pricing_tables_grids.php:1892
+#: css3_web_pricing_tables_grids.php:1924
+#: css3_web_pricing_tables_grids.php:1998
+#: css3_web_pricing_tables_grids.php:2030
+#: css3_web_pricing_tables_grids.php:2104
+#: css3_web_pricing_tables_grids.php:2136
+msgid "buy"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:152
+#: css3_web_pricing_tables_grids.php:1891
+#: css3_web_pricing_tables_grids.php:1923
+#: css3_web_pricing_tables_grids.php:1997
+#: css3_web_pricing_tables_grids.php:2029
+#: css3_web_pricing_tables_grids.php:2103
+#: css3_web_pricing_tables_grids.php:2135
+msgid "best"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:153 css3_web_pricing_tables_grids.php:722
+#: css3_web_pricing_tables_grids.php:726 css3_web_pricing_tables_grids.php:727
+#: css3_web_pricing_tables_grids.php:728 css3_web_pricing_tables_grids.php:729
+#: css3_web_pricing_tables_grids.php:730 css3_web_pricing_tables_grids.php:731
+#: css3_web_pricing_tables_grids.php:732 css3_web_pricing_tables_grids.php:733
+#: css3_web_pricing_tables_grids.php:734 css3_web_pricing_tables_grids.php:735
+#: css3_web_pricing_tables_grids.php:736 css3_web_pricing_tables_grids.php:737
+#: css3_web_pricing_tables_grids.php:738 css3_web_pricing_tables_grids.php:739
+#: css3_web_pricing_tables_grids.php:740 css3_web_pricing_tables_grids.php:741
+#: css3_web_pricing_tables_grids.php:742 css3_web_pricing_tables_grids.php:743
+#: css3_web_pricing_tables_grids.php:746 css3_web_pricing_tables_grids.php:747
+#: css3_web_pricing_tables_grids.php:748 css3_web_pricing_tables_grids.php:749
+#: css3_web_pricing_tables_grids.php:750 css3_web_pricing_tables_grids.php:751
+#: css3_web_pricing_tables_grids.php:752 css3_web_pricing_tables_grids.php:753
+msgid "Style"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:154 css3_web_pricing_tables_grids.php:553
+#: css3_web_pricing_tables_grids.php:555 css3_web_pricing_tables_grids.php:559
+#: css3_web_pricing_tables_grids.php:561 css3_web_pricing_tables_grids.php:569
+#: css3_web_pricing_tables_grids.php:575 css3_web_pricing_tables_grids.php:587
+#: css3_web_pricing_tables_grids.php:593 css3_web_pricing_tables_grids.php:599
+#: css3_web_pricing_tables_grids.php:1336
+#: css3_web_pricing_tables_grids.php:1337
+#: css3_web_pricing_tables_grids.php:1338
+#: css3_web_pricing_tables_grids.php:1339
+#: css3_web_pricing_tables_grids.php:1340
+#: css3_web_pricing_tables_grids.php:1341
+#: css3_web_pricing_tables_grids.php:1342
+#: css3_web_pricing_tables_grids.php:1343
+#: css3_web_pricing_tables_grids.php:1344
+#: css3_web_pricing_tables_grids.php:1345
+#: css3_web_pricing_tables_grids.php:1350
+#: css3_web_pricing_tables_grids.php:1355
+#: css3_web_pricing_tables_grids.php:1360
+#: css3_web_pricing_tables_grids.php:1365
+#: css3_web_pricing_tables_grids.php:1370
+#: css3_web_pricing_tables_grids.php:1375
+#: css3_web_pricing_tables_grids.php:1380
+#: css3_web_pricing_tables_grids.php:1385
+#: css3_web_pricing_tables_grids.php:1390
+#: css3_web_pricing_tables_grids.php:1395
+#: css3_web_pricing_tables_grids.php:1420
+#: css3_web_pricing_tables_grids.php:1421
+#: css3_web_pricing_tables_grids.php:1422
+#: css3_web_pricing_tables_grids.php:1427
+#: css3_web_pricing_tables_grids.php:1433
+#: css3_web_pricing_tables_grids.php:1439
+msgid "style"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:156
+#: css3_web_pricing_tables_grids.php:2174
+#: css3_web_pricing_tables_grids.php:2206
+#: css3_web_pricing_tables_grids.php:2238
+#: css3_web_pricing_tables_grids.php:2270
+#: css3_web_pricing_tables_grids.php:2302
+#: css3_web_pricing_tables_grids.php:2334
+#: css3_web_pricing_tables_grids.php:2366
+#: css3_web_pricing_tables_grids.php:2398
+#: css3_web_pricing_tables_grids.php:2430
+msgid "up"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:157
+#: css3_web_pricing_tables_grids.php:2175
+#: css3_web_pricing_tables_grids.php:2207
+#: css3_web_pricing_tables_grids.php:2239
+#: css3_web_pricing_tables_grids.php:2271
+#: css3_web_pricing_tables_grids.php:2303
+#: css3_web_pricing_tables_grids.php:2335
+#: css3_web_pricing_tables_grids.php:2367
+#: css3_web_pricing_tables_grids.php:2399
+#: css3_web_pricing_tables_grids.php:2431
+msgid "down"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:158 css3_web_pricing_tables_grids.php:555
+#: css3_web_pricing_tables_grids.php:561
+msgid "(old)"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:159
+#: css3_web_pricing_tables_grids.php:1701
+msgid "Cycle"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:160
+#: css3_web_pricing_tables_grids.php:1705
+msgid "Title"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:161
+#: css3_web_pricing_tables_grids.php:1709
+msgid "Unique ID"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:162
+msgid "Price Subtitle"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:163
+#: css3_web_pricing_tables_grids.php:1731
+#: css3_web_pricing_tables_grids.php:1753
+msgid "Button URL"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:176
+msgid "CSS3 Compare Pricing Tables"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:408
+msgid "Settings saved!"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:408
+msgid " (overwritten)"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:409
+msgid "Please use"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:409
+msgid "shortcode to put css3 grid table on your page."
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:413
+msgid "Please fill 'Shortcode id' field!"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:429
+#, php-format
+msgid "Import completed successfully! Imported pricing tables: %s"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:431
+msgid "No data for import found!"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:476
+msgid "Default pricing tables restored successfully!"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:516
+msgid "CSS3 Compare Pricing Tables settings"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:641
+msgid "Choose shortcode id"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:651
+msgid "Delete this pricing table"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:653
+msgid "Choose the shortcode id for editing"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:658
+msgid "Or type new shortcode id *"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:661
+msgid ""
+"Please use only listed characters: letters, numbers, hyphen(-) and "
+"underscore(_)"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:662
+msgid ""
+"Unique identifier for css3_grid shortcode. Don't use special characters."
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:671
+msgid "Main configuration"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:676 css3_web_pricing_tables_grids.php:840
+msgid "Responsive"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:681
+msgid "Fonts configuration"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:686
+msgid "Sliding configuration"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:691
+msgid "Import/export"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:696
+#: css3_web_pricing_tables_grids.php:1648
+#: css3_web_pricing_tables_grids.php:1654
+msgid "Restore default tables"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:701
+#: css3_web_pricing_tables_grids.php:1665
+msgid "Pricing cycles"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:710
+msgid "Type"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:717
+msgid "One of two available kinds of table."
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:738
+msgid "(medicenter blue)"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:739
+msgid "(medicenter green)"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:740
+msgid "(medicenter orange)"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:741
+msgid "(medicenter red)"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:742
+msgid "(medicenter turquoise)"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:743
+msgid "(medicenter violet)"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:755
+msgid "Specifies the style version of the table."
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:760
+msgid "Hover type"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:764 css3_web_pricing_tables_grids.php:769
+msgid "Active"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:765
+msgid "Light"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:766 css3_web_pricing_tables_grids.php:770
+msgid "Disabled"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:772
+msgid "Specifies the hover effect for the columns."
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:777
+msgid "Columns"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:781 css3_web_pricing_tables_grids.php:792
+#: css3_web_pricing_tables_grids.php:803 css3_web_pricing_tables_grids.php:856
+msgid "less"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:782 css3_web_pricing_tables_grids.php:793
+#: css3_web_pricing_tables_grids.php:804 css3_web_pricing_tables_grids.php:857
+msgid "more"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:783
+msgid "Number of columns."
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:788
+msgid "Rows"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:794
+msgid "Number of rows."
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:799
+msgid "Hidden rows"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:805
+msgid "Number of hidden rows<br />at the bottom (for long tables)."
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:810
+msgid "Hidden rows button expand text"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:813
+msgid "Click here to expand!"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:818
+msgid "Hidden rows button collapse text"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:821
+msgid "Click here to collapse!"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:826
+msgid "Custom CSS code"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:847
+msgid "Enable or disable responsive feature (fit for different resolutions)."
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:852
+msgid "Responsive steps (sizes)"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:910
+msgid "Hide caption (first) column on small resolutions"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:917
+msgid ""
+"If set to 'yes' you can adjust screen width value in responsive.css file "
+"(line 5)."
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:929
+msgid "Header font"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:935
+#: css3_web_pricing_tables_grids.php:1004
+#: css3_web_pricing_tables_grids.php:1073
+#: css3_web_pricing_tables_grids.php:1142
+#: css3_web_pricing_tables_grids.php:1211
+msgid "Enter font name"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:943
+#: css3_web_pricing_tables_grids.php:1012
+#: css3_web_pricing_tables_grids.php:1081
+#: css3_web_pricing_tables_grids.php:1150
+#: css3_web_pricing_tables_grids.php:1219
+msgid "or choose Google font"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:947
+#: css3_web_pricing_tables_grids.php:1016
+#: css3_web_pricing_tables_grids.php:1085
+#: css3_web_pricing_tables_grids.php:1154
+#: css3_web_pricing_tables_grids.php:1223
+msgid "Default"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:957
+#: css3_web_pricing_tables_grids.php:1026
+#: css3_web_pricing_tables_grids.php:1095
+#: css3_web_pricing_tables_grids.php:1164
+#: css3_web_pricing_tables_grids.php:1233
+msgid "Google font subset"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:965
+#: css3_web_pricing_tables_grids.php:1034
+#: css3_web_pricing_tables_grids.php:1103
+#: css3_web_pricing_tables_grids.php:1172
+#: css3_web_pricing_tables_grids.php:1241
+msgid "Font size (in px)"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:998
+msgid "Price font"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1067
+msgid "Per month font"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1136
+msgid "Content font"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1205
+msgid "Buttons font"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1279
+msgid "Sliding columns"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1286
+msgid "Enable or disable sliding for columns (left/right moving)."
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1291
+msgid "Visible columns"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1295
+msgid ""
+"Number of visible columns at start, when sliding columns feature is enabled."
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1300
+msgid "Columns to scroll"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1304
+msgid ""
+"The number of columns to scroll. When empty the 'Visible columns' value is "
+"used."
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1309
+msgid "Navigation"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1316
+msgid "Enable or disable sliding navigation."
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1321
+msgid "Navigation arrows"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1332
+msgid "Arrows style"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1405
+msgid "Navigation pagination"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1416
+msgid "Pagination style"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1450
+msgid "Pagination position"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1454
+msgid "bottom"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1456
+msgid "both"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1462
+msgid "Circular"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1473
+msgid "Infinite"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1484
+msgid "Slide on touch"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1495
+msgid "Slide on mouse"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1506
+msgid "Slide threshold"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1510
+msgid ""
+"The number of pixels that the user must move their finger before it is "
+"considered a swipe."
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1515
+msgid "Sliding autoplay"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1526
+msgid "Sliding effect"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1530
+msgid "scroll"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1531
+msgid "none"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1532
+msgid "directscroll"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1533
+msgid "fade"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1534
+msgid "crossfade"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1535
+msgid "cover"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1536
+msgid "uncover"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1542
+msgid "Sliding easing"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1546
+msgid "swing"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1547
+msgid "linear"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1548
+msgid "easeInQuad"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1549
+msgid "easeOutQuad"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1550
+msgid "easeInOutQuad"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1551
+msgid "easeInCubic"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1552
+msgid "easeOutCubic"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1553
+msgid "easeInOutCubic"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1554
+msgid "easeInQuart"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1555
+msgid "easeOutQuart"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1556
+msgid "easeInOutQuart"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1557
+msgid "easeInSine"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1558
+msgid "easeOutSine"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1559
+msgid "easeInOutSine"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1560
+msgid "easeInExpo"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1561
+msgid "easeOutExpo"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1562
+msgid "easeInOutExpo"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1563
+msgid "easeInQuint"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1564
+msgid "easeOutQuint"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1565
+msgid "easeInOutQuint"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1566
+msgid "easeInCirc"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1567
+msgid "easeOutCirc"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1568
+msgid "easeInOutCirc"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1569
+msgid "easeInElastic"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1570
+msgid "easeOutElastic"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1571
+msgid "easeInOutElastic"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1572
+msgid "easeInBack"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1573
+msgid "easeOutBack"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1574
+msgid "easeInOutBack"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1575
+msgid "easeInBounce"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1576
+msgid "easeOutBounce"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1577
+msgid "easeInOutBounce"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1583
+msgid "Sliding transition speed (ms)"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1599
+msgid "Export"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1605
+msgid "Choose tables for export"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1618
+msgid "Export to file"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1625
+msgid "Import"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1636
+msgid "Import from file"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1672
+msgid "Enable or disable pricing cycles feature."
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1677
+msgid "Dropdown alignment"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1685
+msgid "Position of a dropdown list."
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:1690
+msgid "Pricing Cycles Steps"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:2463
+msgid "Preview"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:2464
+#: css3_web_pricing_tables_grids.php:2474
+msgid "Save Options"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:2496
+msgid "CSS3 Compare Pricing Tables global settings"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:2516
+msgid "Load plugin files"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:2520
+msgid "on every page"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:2521
+msgid "only when used"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:2523
+msgid ""
+"If you see unstyled table on your page when using 'only when used' option, "
+"please set 'on every page' as some themes may not be compatibile with 'only "
+"when used' option"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:2530
+msgid "Save Settings"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:3272
+msgid "Shortcode with given id not found!"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:3275
+msgid "Parameter id not specified!"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:3806
+msgid "Pricing Table"
+msgstr ""
+
+#: css3_web_pricing_tables_grids.php:3817
+msgid "Id"
+msgstr ""

@@ -1,0 +1,114 @@
+0000.006 () Opened log file at time: Tue, 22 Sep 2020 09:36:46 +0000 on http://localhost:8888/thegrand
+0000.008 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.29 WP: 5.5.1 PHP: 7.2.1 (apache2handler, Darwin ivy-lius-MacBook-Pro.local 19.3.0 Darwin Kernel Version 19.3.0: Thu Jan  9 20:58:23 PST 2020; root:xnu-6153.81.5~1/RELEASE_X86_64 x86_64) MySQL: 5.6.38 WPLANG: en_US Server: Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.3M | 30M) multisite: N openssl: OpenSSL 1.0.2j  26 Sep 2016 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.008 () Free space on disk containing Updraft's temporary directory: 10301.6 MB
+0000.006 () Opened log file at time: Tue, 22 Sep 2020 09:36:47 +0000 on http://localhost:8888/thegrand
+0000.006 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.29 WP: 5.5.1 PHP: 7.2.1 (apache2handler, Darwin ivy-lius-MacBook-Pro.local 19.3.0 Darwin Kernel Version 19.3.0: Thu Jan  9 20:58:23 PST 2020; root:xnu-6153.81.5~1/RELEASE_X86_64 x86_64) MySQL: 5.6.38 WPLANG: en_US Server: Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 25.6M | 10M) multisite: N openssl: OpenSSL 1.0.2j  26 Sep 2016 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.006 () Free space on disk containing Updraft's temporary directory: 10296.7 MB
+0000.030 () Ensuring WP_Filesystem is setup for a restore
+0000.033 () WP_Filesystem is setup and ready for a restore
+0000.042 () Restore job started. Entities to restore: plugins, themes, uploads, others, db. Restore options: {"include_unspecified_tables":false,"tables_to_restore":["wp_options","wp_users","wp_usermeta","wp_commentmeta","wp_comments","wp_links","wp_postmeta","wp_posts","wp_term_relationships","wp_term_taxonomy","wp_termmeta","wp_terms","wp_department_hours","wp_revslider_css","wp_revslider_css_bkp","wp_revslider_layer_animations","wp_revslider_layer_animations_bkp","wp_revslider_navigations","wp_revslider_navigations_bkp","wp_revslider_sliders","wp_revslider_sliders_bkp","wp_revslider_slides","wp_revslider_slides_bkp","wp_revslider_static_slides","wp_revslider_static_slides_bkp","wp_trp_dictionary_zh_hk_en_us","wp_trp_gettext_en","wp_trp_gettext_en_us","wp_trp_gettext_zh_hk","wp_trp_original_meta","wp_trp_original_strings","wp_wpfm_backup"],"tables_to_skip":[],"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.051 () Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.053 () Entity: db
+0000.053 () restore_backup(backup_file=backup_2020-09-21-1138_The_Grand_bb81fd923be7-db.gz, type=db, info=a:0:{}, last_one=)
+0000.054 () Unpacking backup... (backup_2020-09-21-1138_The_Grand_bb81fd923be7-db.gz, 3.3 Mb)
+0000.064 () Database successfully unpacked
+0000.065 () Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.065 () Using direct MySQL access; value of use_mysqli is: 1
+0000.067 () SQL compatibility mode is: NO_AUTO_VALUE_ON_ZERO,NO_ENGINE_SUBSTITUTION
+0000.173 () Max packet size: 32 MB
+0000.173 () Entering maintenance mode
+0000.173 () Enabling Maintenance mode&#8230;
+0000.186 () Backup of: http://localhost:8888/thegrand
+0000.188 () Content URL: http://localhost:8888/thegrand/wp-content
+0000.188 () Uploads URL: http://localhost:8888/thegrand/wp-content/uploads
+0000.189 () Old table prefix: wp_
+0000.189 () Site information: multisite=0
+0000.191 () New table prefix: wp_
+0000.212 () Processing table (MyISAM): wp_options
+0000.393 () Restoring prior UD configuration (table: wp_options; keys: 4)
+0000.442 () Uploads path (/home/ymowrxih71c1/public_html/thegrand.booloolab.com/wp-content/uploads) does not exist - resetting ()
+0000.446 () Processing table (MyISAM): wp_users
+0000.469 () Processing table (MyISAM): wp_usermeta
+0000.498 () Processing table (MyISAM): wp_commentmeta
+0000.525 () Processing table (MyISAM): wp_comments
+0000.552 () Processing table (MyISAM): wp_links
+0000.574 () Processing table (MyISAM): wp_postmeta
+0001.233 () Processing table (MyISAM): wp_posts
+0001.326 () Processing table (MyISAM): wp_term_relationships
+0001.349 () Processing table (MyISAM): wp_term_taxonomy
+0001.377 () Processing table (MyISAM): wp_termmeta
+0001.401 () Processing table (MyISAM): wp_terms
+0001.417 () Processing table (MyISAM): wp_department_hours
+0001.444 () Database queries processed: 50 in 1.37 seconds
+0001.445 () Processing table (MyISAM): wp_revslider_css
+0001.473 () Processing table (MyISAM): wp_revslider_css_bkp
+0001.500 () Processing table (MyISAM): wp_revslider_layer_animations
+0001.516 () Processing table (MyISAM): wp_revslider_layer_animations_bkp
+0001.534 () Processing table (MyISAM): wp_revslider_navigations
+0001.560 () Processing table (MyISAM): wp_revslider_navigations_bkp
+0001.602 () Processing table (MyISAM): wp_revslider_sliders
+0001.626 () Processing table (MyISAM): wp_revslider_sliders_bkp
+0001.641 () Processing table (MyISAM): wp_revslider_slides
+0001.661 () Processing table (MyISAM): wp_revslider_slides_bkp
+0001.675 () Processing table (MyISAM): wp_revslider_static_slides
+0001.691 () Processing table (MyISAM): wp_revslider_static_slides_bkp
+0001.705 () Processing table (MyISAM): wp_trp_dictionary_zh_hk_en_us
+0001.744 () Processing table (MyISAM): wp_trp_gettext_en
+0001.758 () Processing table (MyISAM): wp_trp_gettext_en_us
+0001.785 () Processing table (MyISAM): wp_trp_gettext_zh_hk
+0001.807 () Processing table (MyISAM): wp_trp_original_meta
+0001.826 () Processing table (MyISAM): wp_trp_original_strings
+0001.851 () Processing table (MyISAM): wp_wpfm_backup
+0001.863 () Database queries processed: 100 in 1.79 seconds
+0001.925 () Unlocking database and leaving maintenance mode
+0001.926 () Disabling Maintenance mode&#8230;
+0001.926 () Finished: lines processed: 100 in 1.86 seconds
+0001.927 () Cleaning up rubbish...
+0001.939 () Entity: plugins
+0001.939 () restore_backup(backup_file=backup_2020-09-21-1138_The_Grand_bb81fd923be7-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:53:"/Applications/MAMP/htdocs/thegrand/wp-content/plugins";s:11:"description";s:7:"Plugins";}, last_one=)
+0001.939 () Unpacking backup... (backup_2020-09-21-1138_The_Grand_bb81fd923be7-plugins.zip, 26.3 MB)
+0001.942 () Unzipping backup_2020-09-21-1138_The_Grand_bb81fd923be7-plugins.zip to /Applications/MAMP/htdocs/thegrand/wp-content/upgrade/1638543b/ using UpdraftPlus_ZipArchive, starting index 0
+0003.867 () Unzip progress: 1002 out of 6387 files (2.7 MB, plugins/revslider/admin/includes/shortcode_generator/gutenberg/dist/blocks.editor.build.css)
+0004.339 () Unzip progress: 2003 out of 6387 files (12.4 MB, plugins/revslider/public/assets/assets/svg/device/ic_signal_wifi_statusbar_not_connected_26x24px.svg)
+0004.893 () Unzip progress: 3004 out of 6387 files (26 MB, plugins/js_composer/assets/less/params/vc_grid_item/shortcodes/vc_gitem_zone_b.less)
+0005.501 () Unzip progress: 4005 out of 6387 files (43.7 MB, plugins/wp-file-manager/lib/php/libs/GdBmp.php)
+0006.006 () Unzip progress: 5006 out of 6387 files (51 MB, plugins/updraftplus/images/icons/onedrive.png)
+0006.676 () Unzip progress: 6007 out of 6387 files (70.7 MB, plugins/updraftplus/languages/updraftplus-bg_BG.po)
+0006.913 () Unzip progress: 6387 out of 6387 files (78.5 MB, plugins/updraftplus/includes/Google/Http/Request.php)
+0006.935 () Moving old data: filesystem method / updraft_dir is potentially possible
+0006.936 () Moving old data: can potentially use wp_filesystem method / -old
+0006.936 () Moving old data out of the way...
+0007.686 () Top-level entities being moved: index.php, akismet, updraftplus
+0007.699 () Moving unpacked backup into place...
+0010.634 () Top-level entities being moved: ql_sidebars, css3_web_pricing_tables_grids, translatepress-multilingual, index.php, js_composer, akismet, wp-file-manager, classic-editor, medicenter_doctors, medicenter_shortcodes, ql_services, medicenter_galleries, updraftplus, medicenter_features, ql_importer, limit-login-attempts-reloaded, medicenter_departments, revslider, ql_twitter_widget
+0010.644 () Cleaning up rubbish...
+0010.647 () Entity: themes
+0010.647 () restore_backup(backup_file=backup_2020-09-21-1138_The_Grand_bb81fd923be7-themes.zip, type=themes, info=a:2:{s:4:"path";s:52:"/Applications/MAMP/htdocs/thegrand/wp-content/themes";s:11:"description";s:6:"Themes";}, last_one=)
+0010.647 () Unpacking backup... (backup_2020-09-21-1138_The_Grand_bb81fd923be7-themes.zip, 19.7 MB)
+0010.648 () Unzipping backup_2020-09-21-1138_The_Grand_bb81fd923be7-themes.zip to /Applications/MAMP/htdocs/thegrand/wp-content/upgrade/9c1a4922/ using UpdraftPlus_ZipArchive, starting index 0
+0011.358 () Unzip progress: 657 out of 657 files (23.9 MB, themes/twentynineteen/sass/site/footer/_site-footer.scss)
+0011.371 () Moving old data: filesystem method / updraft_dir is potentially possible
+0011.371 () Moving old data: can potentially use wp_filesystem method / -old
+0011.371 () Moving old data out of the way...
+0011.522 () Top-level entities being moved: twentyseventeen, twentynineteen, index.php, twentytwenty
+0011.523 () Moving unpacked backup into place...
+0011.720 () Top-level entities being moved: twentyseventeen, twentynineteen, index.php, medicenter, twentytwenty
+0011.721 () Cleaning up rubbish...
+0011.723 () Entity: uploads
+0011.723 () restore_backup(backup_file=backup_2020-09-21-1138_The_Grand_bb81fd923be7-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:53:"/Applications/MAMP/htdocs/thegrand/wp-content/uploads";s:11:"description";s:7:"Uploads";}, last_one=)
+0011.724 () Unpacking backup... (backup_2020-09-21-1138_The_Grand_bb81fd923be7-uploads.zip, 9.1 MB)
+0011.724 () Unzipping backup_2020-09-21-1138_The_Grand_bb81fd923be7-uploads.zip to /Applications/MAMP/htdocs/thegrand/wp-content/upgrade/f43e6659/ using UpdraftPlus_ZipArchive, starting index 0
+0012.034 () Unzip progress: 233 out of 233 files (9.1 MB, uploads/2013/05/大腸癌-285x190.png)
+0012.035 () Moving old data: filesystem method / updraft_dir is potentially possible
+0012.035 () Moving old data: can potentially use wp_filesystem method / -old
+0012.035 () Moving old data out of the way...
+0012.038 () Moving unpacked backup into place...
+0012.116 () Cleaning up rubbish...
+0012.118 () Entity: others
+0012.118 () restore_backup(backup_file=backup_2020-09-21-1138_The_Grand_bb81fd923be7-others.zip, type=others, info=a:2:{s:4:"path";s:45:"/Applications/MAMP/htdocs/thegrand/wp-content";s:11:"description";s:6:"Others";}, last_one=1)
+0012.119 () Unpacking backup... (backup_2020-09-21-1138_The_Grand_bb81fd923be7-others.zip, 0.7 MB)
+0012.119 () Unzipping backup_2020-09-21-1138_The_Grand_bb81fd923be7-others.zip to /Applications/MAMP/htdocs/thegrand/wp-content/upgrade/47176c8e/ using UpdraftPlus_ZipArchive, starting index 0
+0012.181 () Unzip progress: 37 out of 37 files (2.2 MB, languages/zh_HK.mo)
+0012.183 () Cleaning up rubbish...
+0012.211 () Restore successful!
+0012.211 () Restore successful

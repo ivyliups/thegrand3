@@ -1,0 +1,535 @@
+0000.002 (0) Opened log file at time: Mon, 05 Oct 2020 13:05:26 +0000 on http://localhost:8888/thegrand
+0000.005 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.29 WP: 5.5.1 PHP: 7.2.1 (apache2handler, Darwin ivy-lius-MacBook-Pro.local 19.3.0 Darwin Kernel Version 19.3.0: Thu Jan  9 20:58:23 PST 2020; root:xnu-6153.81.5~1/RELEASE_X86_64 x86_64) MySQL: 5.6.38 WPLANG: en_US Server: Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.1 mod_ssl/2.2.34 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 56.1M | 4.3M) multisite: N openssl: OpenSSL 1.0.2j  26 Sep 2016 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.008 (0) Free space on disk containing Updraft's temporary directory: 4310.8 MB
+0000.017 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.017 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.034 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1601866285, seconds_ago=36841)
+0000.039 (0) Set semaphore last lock (fd) time to 2020-10-05 13:05:26
+0000.039 (0) Semaphore lock (fd) complete
+0000.044 (0) Backup run: resumption=0, nonce=0fb7091ce0f3, file_nonce=0fb7091ce0f3 begun at=1601903126 (0s ago), job type=backup
+0000.045 (0) Scheduling a resumption (1) after 348 seconds (1601903474) in case this run gets aborted
+0000.144 (0) Checking if we have a zip executable available
+0000.146 (0) Testing: /usr/bin/zip
+0000.204 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.206 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.207 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.208 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.209 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.254 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.255 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.303 (0) Working binary zip found: /usr/bin/zip
+0000.305 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.306 (0) Creation of backups of directories: beginning
+0000.310 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.927 (0) Total entities for the zip file: 1163 directories, 6980 files (0 skipped as non-modified), 110.1 MB
+0000.941 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.953 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.966 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.008 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.023 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.025 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (14.2 MB, 6980 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0002.098 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: size is now: 3.90 MB
+0002.111 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 600 files added (on-disk size: 4005.2 KB)
+0002.121 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 700 files added (on-disk size: 4005.2 KB)
+0002.133 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 800 files added (on-disk size: 4005.2 KB)
+0002.143 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 900 files added (on-disk size: 4005.2 KB)
+0002.154 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 1000 files added (on-disk size: 4005.2 KB)
+0002.155 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.7 MB, 6980 files batched, 501 (1002) added so far); re-opening (prior size: 4005.2 KB)
+0002.866 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: size is now: 5.80 MB
+0002.881 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 1100 files added (on-disk size: 5930.1 KB)
+0002.894 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 1200 files added (on-disk size: 5930.1 KB)
+0002.907 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 1300 files added (on-disk size: 5930.1 KB)
+0002.919 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 1400 files added (on-disk size: 5930.1 KB)
+0002.931 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 1500 files added (on-disk size: 5930.1 KB)
+0002.932 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3 MB, 6980 files batched, 501 (1503) added so far); re-opening (prior size: 5930.1 KB)
+0003.370 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 1600 files added (on-disk size: 6816.8 KB)
+0003.381 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 1700 files added (on-disk size: 6816.8 KB)
+0003.392 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 1800 files added (on-disk size: 6816.8 KB)
+0003.403 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 1900 files added (on-disk size: 6816.8 KB)
+0003.414 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 2000 files added (on-disk size: 6816.8 KB)
+0003.416 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7.5 MB, 6980 files batched, 501 (2004) added so far); re-opening (prior size: 6816.8 KB)
+0004.616 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: size is now: 9.70 MB
+0004.630 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 2100 files added (on-disk size: 9960.1 KB)
+0004.641 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 2200 files added (on-disk size: 9960.1 KB)
+0004.652 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 2300 files added (on-disk size: 9960.1 KB)
+0004.664 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 2400 files added (on-disk size: 9960.1 KB)
+0004.675 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 2500 files added (on-disk size: 9960.1 KB)
+0004.676 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (8.8 MB, 6980 files batched, 501 (2505) added so far); re-opening (prior size: 9960.1 KB)
+0006.106 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: size is now: 12.70 MB
+0006.120 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 2600 files added (on-disk size: 12987.9 KB)
+0006.131 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 2700 files added (on-disk size: 12987.9 KB)
+0006.142 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 2800 files added (on-disk size: 12987.9 KB)
+0006.152 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 2900 files added (on-disk size: 12987.9 KB)
+0006.163 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 3000 files added (on-disk size: 12987.9 KB)
+0006.165 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.1 MB, 6980 files batched, 501 (3006) added so far); re-opening (prior size: 12987.9 KB)
+0006.500 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 3100 files added (on-disk size: 13792.3 KB)
+0006.511 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 3200 files added (on-disk size: 13792.3 KB)
+0006.522 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 3300 files added (on-disk size: 13792.3 KB)
+0006.532 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 3400 files added (on-disk size: 13792.3 KB)
+0006.543 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 3500 files added (on-disk size: 13792.3 KB)
+0006.544 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (16.3 MB, 6980 files batched, 501 (3507) added so far); re-opening (prior size: 13792.3 KB)
+0007.474 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: size is now: 17.10 MB
+0007.487 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 3600 files added (on-disk size: 17507.1 KB)
+0007.498 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 3700 files added (on-disk size: 17507.1 KB)
+0007.509 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 3800 files added (on-disk size: 17507.1 KB)
+0007.520 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 3900 files added (on-disk size: 17507.1 KB)
+0007.531 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 4000 files added (on-disk size: 17507.1 KB)
+0007.533 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (22.9 MB, 6980 files batched, 501 (4008) added so far); re-opening (prior size: 17507.1 KB)
+0009.030 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: size is now: 24.40 MB
+0009.043 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 4100 files added (on-disk size: 24955.5 KB)
+0009.055 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 4200 files added (on-disk size: 24955.5 KB)
+0009.066 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 4300 files added (on-disk size: 24955.5 KB)
+0009.080 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 4400 files added (on-disk size: 24955.5 KB)
+0009.091 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 4500 files added (on-disk size: 24955.5 KB)
+0009.092 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.5 MB, 6980 files batched, 501 (4509) added so far); re-opening (prior size: 24955.5 KB)
+0010.150 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 4600 files added (on-disk size: 26844.4 KB)
+0010.161 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 4700 files added (on-disk size: 26844.4 KB)
+0010.172 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 4800 files added (on-disk size: 26844.4 KB)
+0010.182 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 4900 files added (on-disk size: 26844.4 KB)
+0010.193 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 5000 files added (on-disk size: 26844.4 KB)
+0010.195 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.8 MB, 6980 files batched, 501 (5010) added so far); re-opening (prior size: 26844.4 KB)
+0010.727 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 5100 files added (on-disk size: 27605.6 KB)
+0010.738 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 5200 files added (on-disk size: 27605.6 KB)
+0010.749 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 5300 files added (on-disk size: 27605.6 KB)
+0010.760 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 5400 files added (on-disk size: 27605.6 KB)
+0010.770 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 5500 files added (on-disk size: 27605.6 KB)
+0010.772 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (12 MB, 6980 files batched, 501 (5511) added so far); re-opening (prior size: 27605.6 KB)
+0011.961 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 5600 files added (on-disk size: 32533.7 KB)
+0011.973 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 5700 files added (on-disk size: 32533.7 KB)
+0011.983 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 5800 files added (on-disk size: 32533.7 KB)
+0011.994 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 5900 files added (on-disk size: 32533.7 KB)
+0012.005 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 6000 files added (on-disk size: 32533.7 KB)
+0012.007 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.5 MB, 6980 files batched, 501 (6012) added so far); re-opening (prior size: 32533.7 KB)
+0013.059 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 6100 files added (on-disk size: 33885.8 KB)
+0013.070 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 6200 files added (on-disk size: 33885.8 KB)
+0013.080 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 6300 files added (on-disk size: 33885.8 KB)
+0013.091 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 6400 files added (on-disk size: 33885.8 KB)
+0013.102 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 6500 files added (on-disk size: 33885.8 KB)
+0013.104 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (0.2 MB, 6980 files batched, 501 (6513) added so far); re-opening (prior size: 33885.8 KB)
+0013.616 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 6600 files added (on-disk size: 34123.8 KB)
+0013.626 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 6700 files added (on-disk size: 34123.8 KB)
+0013.637 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 6800 files added (on-disk size: 34123.8 KB)
+0013.648 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip.tmp: 6900 files added (on-disk size: 34123.8 KB)
+0015.260 (0) Created plugins zip (0) - 37311.7 KB in 14.9 s (2496.7 KB/s) (sha1: fb33f79b9b60b82cc94cccfb2d22cd0d30cb9294, sha256: 3b2887100236381adb601f07813d413f3cb3c2af42cc1ccf90cd6206aa723b6f)
+0015.271 (0) Beginning creation of dump of themes (split every: 400 MB)
+0015.368 (0) Total entities for the zip file: 110 directories, 590 files (0 skipped as non-modified), 24.6 MB
+0015.381 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0015.391 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0015.402 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0015.413 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0015.425 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0015.426 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (22.2 MB, 590 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0016.125 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-themes.zip.tmp: size is now: 18.80 MB
+0016.886 (0) Created themes zip (0) - 20378.9 KB in 1.6 s (12800.5 KB/s) (sha1: 133ce1a243adfc24ef93aed4c23b9a1d425f5d57, sha256: 2c7325e5fbf60b637168c3feb4ae627f9961168e83ceaecce25a2918f1da5656)
+0016.889 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0016.890 (0) Looking for candidates to backup in: /Applications/MAMP/htdocs/thegrand/wp-content/uploads
+0016.892 (0) finding files: 2013: adding to list (1)
+0016.893 (0) finding files: 2012: adding to list (2)
+0016.893 (0) finding files: js_composer: adding to list (3)
+0016.894 (0) finding files: wp-file-manager-pro: adding to list (4)
+0016.895 (0) finding files: elementor: adding to list (5)
+0016.895 (0) finding files: et_temp: adding to list (6)
+0016.896 (0) finding files: 2017: adding to list (7)
+0016.896 (0) finding files: 2020: adding to list (8)
+0016.897 (0) finding files: 2018: adding to list (9)
+0016.897 (0) finding files: revslider: adding to list (10)
+0016.898 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0016.933 (0) Total entities for the zip file: 19 directories, 571 files (0 skipped as non-modified), 47.2 MB
+0016.944 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0016.956 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0016.966 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0016.969 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25 MB, 571 files batched, 316 (316) added so far); re-opening (prior size: 0 KB)
+0017.609 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-uploads.zip.tmp: size is now: 25.00 MB
+0017.616 (0) A useful amount of data was added after this amount of zip processing: 0.8 s (normalised: 0.8 s, rate: 31061.8 KB/s)
+0017.618 (0) Performance is good - will increase the amount of data we attempt to batch (time=0.82528805732727, normalised_time=0.82416453956658, max_time=17.616499185562, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0017.633 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-uploads.zip.tmp: 400 files added (on-disk size: 25644.3 KB)
+0017.645 (0) Zip: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-uploads.zip.tmp: 500 files added (on-disk size: 25644.3 KB)
+0019.325 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-uploads.zip.tmp: size is now: 47.30 MB
+0020.288 (0) Created uploads zip (0) - 48418.1 KB in 3.4 s (14289 KB/s) (sha1: f3c13492bbf3b3c4aca16c57117afe00fac9fcff, sha256: ab9b5910e3a3c64a95da4a57a8559693288be39867121e3bef9dd621042fe064)
+0020.291 (0) Beginning backup of other directories found in the content directory (index: 0)
+0020.291 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0020.292 (0) Looking for candidates to backup in: /Applications/MAMP/htdocs/thegrand/wp-content
+0020.292 (0) finding files: upgrade: skipping: excluded by options
+0020.293 (0) finding files: .DS_Store: adding to list (1)
+0020.293 (0) finding files: index.php: adding to list (2)
+0020.294 (0) finding files: plugins: skipping: this is the plugins directory
+0020.294 (0) finding files: uploads: skipping: this is the uploads directory
+0020.295 (0) finding files: updraft: skipping: this is the updraft directory
+0020.295 (0) finding files: backups-dup-lite: skipping: excluded by options (glob)
+0020.296 (0) finding files: languages: adding to list (3)
+0020.296 (0) finding files: themes: skipping: this is the themes directory
+0020.297 (0) finding files: mu-plugins: adding to list (4)
+0020.301 (0) Total entities for the zip file: 4 directories, 36 files (0 skipped as non-modified), 2.4 MB
+0020.517 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-others.zip.tmp: size is now: 0.70 MB
+0020.538 (0) Created others zip (0) - 735.7 KB in 0.2 s (3061.7 KB/s) (sha1: 567745909c7847308528f0ba114baaf764a76a03, sha256: ea2cb2dea41fab3141cede8d5acc2b5675aa9c6effe468c735193d7089983150)
+0020.543 (0) Saving backup status to database (elements: 8)
+0020.550 (0) Beginning creation of database dump (WordPress DB)
+0020.551 (0) SQL compatibility mode is: NO_ENGINE_SUBSTITUTION
+0020.597 (0) Table wp_options: Total expected rows (approximate): 338
+0020.721 (0) Table wp_options: Rows added in this batch (start page: 0; next: finished): 334 in 0.12 seconds
+0020.728 (0) Table wp_options: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_options.table.gz - 315.7 KB)
+0020.732 (0) Table wp_users: Total expected rows (approximate): 2
+0020.738 (0) Table wp_users: Rows added in this batch (start page: 0; next: finished): 2 in 0.01 seconds
+0020.739 (0) Table wp_users: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_users.table.gz - 0.6 KB)
+0020.743 (0) Table wp_usermeta: Total expected rows (approximate): 47
+0020.748 (0) Table wp_usermeta: Rows added in this batch (start page: 0; next: finished): 47 in 0.00 seconds
+0020.749 (0) Table wp_usermeta: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_usermeta.table.gz - 2.1 KB)
+0020.755 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0020.759 (0) Table wp_commentmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0020.760 (0) Table wp_commentmeta: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0020.764 (0) Table wp_comments: Total expected rows (approximate): 50
+0020.772 (0) Table wp_comments: Rows added in this batch (start page: 0; next: finished): 50 in 0.01 seconds
+0020.773 (0) Table wp_comments: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_comments.table.gz - 2.1 KB)
+0020.777 (0) Table wp_links: Total expected rows (approximate): 0
+0020.780 (0) Table wp_links: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0020.781 (0) Table wp_links: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_links.table.gz - 0.4 KB)
+0020.785 (0) Table wp_postmeta: Total expected rows (approximate): 5208
+0020.859 (0) Table wp_postmeta: Rows added in this batch (start page: 0; next: finished): 5208 in 0.07 seconds
+0020.862 (0) Table wp_postmeta: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_postmeta.table.gz - 53.8 KB)
+0020.867 (0) Table wp_posts: Total expected rows (approximate): 593
+0020.961 (0) Table wp_posts: Rows added in this batch (start page: 0; next: finished): 593 in 0.09 seconds
+0020.965 (0) Table wp_posts: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_posts.table.gz - 116.9 KB)
+0020.969 (0) Table wp_term_relationships: Total expected rows (approximate): 236
+0020.975 (0) Table wp_term_relationships: Rows added in this batch (start page: 0; next: finished): 236 in 0.01 seconds
+0020.976 (0) Table wp_term_relationships: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_term_relationships.table.gz - 1 KB)
+0020.980 (0) Table wp_term_taxonomy: Total expected rows (approximate): 46
+0020.984 (0) Table wp_term_taxonomy: Rows added in this batch (start page: 0; next: finished): 46 in 0.00 seconds
+0020.985 (0) Table wp_term_taxonomy: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_term_taxonomy.table.gz - 0.8 KB)
+0020.989 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0020.991 (0) Table wp_termmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0020.992 (0) Table wp_termmeta: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_termmeta.table.gz - 0.4 KB)
+0020.996 (0) Table wp_terms: Total expected rows (approximate): 46
+0020.999 (0) Table wp_terms: Rows added in this batch (start page: 0; next: finished): 46 in 0.00 seconds
+0021.000 (0) Table wp_terms: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_terms.table.gz - 1.1 KB)
+0021.003 (0) Table wp_department_hours: Total expected rows (approximate): 45
+0021.007 (0) Table wp_department_hours: Rows added in this batch (start page: 0; next: finished): 45 in 0.00 seconds
+0021.008 (0) Table wp_department_hours: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_department_hours.table.gz - 1.3 KB)
+0021.014 (0) Table wp_duplicator_packages: Total expected rows (approximate): 1
+0021.017 (0) Table wp_duplicator_packages: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0021.018 (0) Table wp_duplicator_packages: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_duplicator_packages.table.gz - 2.3 KB)
+0021.024 (0) Table wp_revslider_css: Total expected rows (approximate): 109
+0021.034 (0) Table wp_revslider_css: Rows added in this batch (start page: 0; next: finished): 109 in 0.01 seconds
+0021.036 (0) Table wp_revslider_css: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_revslider_css.table.gz - 4.8 KB)
+0021.042 (0) Table wp_revslider_css_bkp: Total expected rows (approximate): 47
+0021.047 (0) Table wp_revslider_css_bkp: Rows added in this batch (start page: 0; next: finished): 47 in 0.00 seconds
+0021.048 (0) Table wp_revslider_css_bkp: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_revslider_css_bkp.table.gz - 1.8 KB)
+0021.053 (0) Table wp_revslider_layer_animations: Total expected rows (approximate): 0
+0021.056 (0) Table wp_revslider_layer_animations: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0021.057 (0) Table wp_revslider_layer_animations: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_revslider_layer_animations.table.gz - 0.3 KB)
+0021.061 (0) Table wp_revslider_layer_animations_bkp: Total expected rows (approximate): 0
+0021.063 (0) Table wp_revslider_layer_animations_bkp: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0021.064 (0) Table wp_revslider_layer_animations_bkp: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_revslider_layer_animations_bkp.table.gz - 0.3 KB)
+0021.067 (0) Table wp_revslider_navigations: Total expected rows (approximate): 0
+0021.070 (0) Table wp_revslider_navigations: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0021.071 (0) Table wp_revslider_navigations: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_revslider_navigations.table.gz - 0.3 KB)
+0021.075 (0) Table wp_revslider_navigations_bkp: Total expected rows (approximate): 0
+0021.078 (0) Table wp_revslider_navigations_bkp: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0021.079 (0) Table wp_revslider_navigations_bkp: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_revslider_navigations_bkp.table.gz - 0.3 KB)
+0021.082 (0) Table wp_revslider_sliders: Total expected rows (approximate): 1
+0021.085 (0) Table wp_revslider_sliders: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0021.086 (0) Table wp_revslider_sliders: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_revslider_sliders.table.gz - 2.9 KB)
+0021.089 (0) Table wp_revslider_sliders_bkp: Total expected rows (approximate): 0
+0021.092 (0) Table wp_revslider_sliders_bkp: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0021.093 (0) Table wp_revslider_sliders_bkp: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_revslider_sliders_bkp.table.gz - 0.3 KB)
+0021.096 (0) Table wp_revslider_slides: Total expected rows (approximate): 3
+0021.101 (0) Table wp_revslider_slides: Rows added in this batch (start page: 0; next: finished): 3 in 0.00 seconds
+0021.102 (0) Table wp_revslider_slides: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_revslider_slides.table.gz - 2.6 KB)
+0021.105 (0) Table wp_revslider_slides_bkp: Total expected rows (approximate): 0
+0021.108 (0) Table wp_revslider_slides_bkp: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0021.109 (0) Table wp_revslider_slides_bkp: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_revslider_slides_bkp.table.gz - 0.3 KB)
+0021.113 (0) Table wp_revslider_static_slides: Total expected rows (approximate): 1
+0021.116 (0) Table wp_revslider_static_slides: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0021.117 (0) Table wp_revslider_static_slides: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_revslider_static_slides.table.gz - 0.4 KB)
+0021.124 (0) Table wp_revslider_static_slides_bkp: Total expected rows (approximate): 0
+0021.128 (0) Table wp_revslider_static_slides_bkp: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0021.129 (0) Table wp_revslider_static_slides_bkp: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_revslider_static_slides_bkp.table.gz - 0.3 KB)
+0021.132 (0) Table wp_trp_dictionary_zh_hk_en_us: Total expected rows (approximate): 876
+0021.148 (0) Table wp_trp_dictionary_zh_hk_en_us: Rows added in this batch (start page: 0; next: finished): 876 in 0.01 seconds
+0021.149 (0) Table wp_trp_dictionary_zh_hk_en_us: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_trp_dictionary_zh_hk_en_us.table.gz - 23.8 KB)
+0021.154 (0) Table wp_trp_gettext_en: Total expected rows (approximate): 0
+0021.156 (0) Table wp_trp_gettext_en: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0021.157 (0) Table wp_trp_gettext_en: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_trp_gettext_en.table.gz - 0.4 KB)
+0021.160 (0) Table wp_trp_gettext_en_us: Total expected rows (approximate): 1694
+0021.184 (0) Table wp_trp_gettext_en_us: Rows added in this batch (start page: 0; next: finished): 1694 in 0.02 seconds
+0021.186 (0) Table wp_trp_gettext_en_us: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_trp_gettext_en_us.table.gz - 17.9 KB)
+0021.190 (0) Table wp_trp_gettext_zh_hk: Total expected rows (approximate): 327
+0021.197 (0) Table wp_trp_gettext_zh_hk: Rows added in this batch (start page: 0; next: finished): 327 in 0.01 seconds
+0021.198 (0) Table wp_trp_gettext_zh_hk: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_trp_gettext_zh_hk.table.gz - 4.6 KB)
+0021.202 (0) Table wp_trp_original_meta: Total expected rows (approximate): 610
+0021.211 (0) Table wp_trp_original_meta: Rows added in this batch (start page: 0; next: finished): 610 in 0.01 seconds
+0021.213 (0) Table wp_trp_original_meta: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_trp_original_meta.table.gz - 3.6 KB)
+0021.216 (0) Table wp_trp_original_strings: Total expected rows (approximate): 876
+0021.227 (0) Table wp_trp_original_strings: Rows added in this batch (start page: 0; next: finished): 876 in 0.01 seconds
+0021.229 (0) Table wp_trp_original_strings: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_trp_original_strings.table.gz - 20.4 KB)
+0021.233 (0) Table wp_wpfm_backup: Total expected rows (approximate): 0
+0021.236 (0) Table wp_wpfm_backup: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0021.237 (0) Table wp_wpfm_backup: finishing file (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_wpfm_backup.table.gz - 0.3 KB)
+0021.239 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_options.table.gz (1/33): adding to final database dump
+0021.347 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_users.table.gz (2/33): adding to final database dump
+0021.350 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_usermeta.table.gz (3/33): adding to final database dump
+0021.351 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_commentmeta.table.gz (4/33): adding to final database dump
+0021.352 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_comments.table.gz (5/33): adding to final database dump
+0021.353 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_links.table.gz (6/33): adding to final database dump
+0021.355 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_postmeta.table.gz (7/33): adding to final database dump
+0021.383 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_posts.table.gz (8/33): adding to final database dump
+0021.455 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_term_relationships.table.gz (9/33): adding to final database dump
+0021.456 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_term_taxonomy.table.gz (10/33): adding to final database dump
+0021.457 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_termmeta.table.gz (11/33): adding to final database dump
+0021.458 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_terms.table.gz (12/33): adding to final database dump
+0021.459 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_department_hours.table.gz (13/33): adding to final database dump
+0021.460 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_duplicator_packages.table.gz (14/33): adding to final database dump
+0021.460 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_revslider_css.table.gz (15/33): adding to final database dump
+0021.464 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_revslider_css_bkp.table.gz (16/33): adding to final database dump
+0021.465 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_revslider_layer_animations.table.gz (17/33): adding to final database dump
+0021.466 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_revslider_layer_animations_bkp.table.gz (18/33): adding to final database dump
+0021.466 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_revslider_navigations.table.gz (19/33): adding to final database dump
+0021.467 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_revslider_navigations_bkp.table.gz (20/33): adding to final database dump
+0021.468 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_revslider_sliders.table.gz (21/33): adding to final database dump
+0021.469 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_revslider_sliders_bkp.table.gz (22/33): adding to final database dump
+0021.470 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_revslider_slides.table.gz (23/33): adding to final database dump
+0021.473 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_revslider_slides_bkp.table.gz (24/33): adding to final database dump
+0021.474 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_revslider_static_slides.table.gz (25/33): adding to final database dump
+0021.475 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_revslider_static_slides_bkp.table.gz (26/33): adding to final database dump
+0021.476 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_trp_dictionary_zh_hk_en_us.table.gz (27/33): adding to final database dump
+0021.483 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_trp_gettext_en.table.gz (28/33): adding to final database dump
+0021.484 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_trp_gettext_en_us.table.gz (29/33): adding to final database dump
+0021.491 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_trp_gettext_zh_hk.table.gz (30/33): adding to final database dump
+0021.493 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_trp_original_meta.table.gz (31/33): adding to final database dump
+0021.496 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_trp_original_strings.table.gz (32/33): adding to final database dump
+0021.505 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db-table-wp_wpfm_backup.table.gz (33/33): adding to final database dump
+0021.514 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db.gz: finished writing out complete database file (560 KB)
+0021.540 (0) Total database tables backed up: 33 (backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db.gz, size: 590962, sha1: d283293cab0a132ca4d87221ba803c4c836c3b0d, sha256: 644c6ac35ec4f43e17a77bf34eee91af279a2fffed013d09b748a03e64e4952b)
+0021.548 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0021.549 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0021.549 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0021.550 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-others.zip: others: This file has not yet been successfully uploaded: will queue
+0021.550 (0) backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db.gz: db: This file has not yet been successfully uploaded: will queue
+0021.551 (0) Saving backup history. Total backup size: 104.9 MB
+0021.556 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0021.559 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0021.560 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-5136b0bd705138ad3f58b90a1dd65372)
+0026.664 (0) Google Drive: quota usage: used=576.6 MB, total=15360 MB, available=14783.4 MB
+0026.665 (0) Google Drive: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip: Attempting to upload to Google Drive (into folder id: 1KlvVNbgXxF6mMqctO_1myYMu5c4h_bOd)
+0027.694 (0) Googledrive chunked upload: 2.7 % uploaded (1048576)
+0028.060 (0) Googledrive chunked upload: 5.5 % uploaded (2097152)
+0028.355 (0) Googledrive chunked upload: 8.2 % uploaded (3145728)
+0028.648 (0) Googledrive chunked upload: 11 % uploaded (4194304)
+0028.924 (0) Googledrive chunked upload: 13.7 % uploaded (5242880)
+0029.195 (0) Googledrive chunked upload: 16.5 % uploaded (6291456)
+0029.460 (0) Googledrive chunked upload: 19.2 % uploaded (7340032)
+0029.746 (0) Googledrive chunked upload: 22 % uploaded (8388608)
+0030.026 (0) Googledrive chunked upload: 24.7 % uploaded (9437184)
+0030.301 (0) Googledrive chunked upload: 27.4 % uploaded (10485760)
+0030.650 (0) Googledrive chunked upload: 30.2 % uploaded (11534336)
+0030.943 (0) Googledrive chunked upload: 32.9 % uploaded (12582912)
+0031.223 (0) Googledrive chunked upload: 35.7 % uploaded (13631488)
+0031.508 (0) Googledrive chunked upload: 38.4 % uploaded (14680064)
+0031.801 (0) Googledrive chunked upload: 41.2 % uploaded (15728640)
+0032.080 (0) Googledrive chunked upload: 43.9 % uploaded (16777216)
+0032.414 (0) Googledrive chunked upload: 46.7 % uploaded (17825792)
+0032.668 (0) Googledrive chunked upload: 49.4 % uploaded (18874368)
+0032.950 (0) Googledrive chunked upload: 52.1 % uploaded (19922944)
+0033.220 (0) Googledrive chunked upload: 54.9 % uploaded (20971520)
+0033.626 (0) Googledrive chunked upload: 57.6 % uploaded (22020096)
+0033.905 (0) Googledrive chunked upload: 60.4 % uploaded (23068672)
+0034.174 (0) Googledrive chunked upload: 63.1 % uploaded (24117248)
+0034.439 (0) Googledrive chunked upload: 65.9 % uploaded (25165824)
+0034.720 (0) Googledrive chunked upload: 68.6 % uploaded (26214400)
+0035.025 (0) Googledrive chunked upload: 71.4 % uploaded (27262976)
+0035.305 (0) Googledrive chunked upload: 74.1 % uploaded (28311552)
+0035.590 (0) Googledrive chunked upload: 76.8 % uploaded (29360128)
+0035.884 (0) Googledrive chunked upload: 79.6 % uploaded (30408704)
+0036.154 (0) Googledrive chunked upload: 82.3 % uploaded (31457280)
+0036.600 (0) Googledrive chunked upload: 85.1 % uploaded (32505856)
+0036.879 (0) Googledrive chunked upload: 87.8 % uploaded (33554432)
+0037.267 (0) Googledrive chunked upload: 90.6 % uploaded (34603008)
+0037.541 (0) Googledrive chunked upload: 93.3 % uploaded (35651584)
+0037.799 (0) Googledrive chunked upload: 96.1 % uploaded (36700160)
+0038.086 (0) Googledrive chunked upload: 98.8 % uploaded (37748736)
+0039.875 (0) Googledrive chunked upload: 100 % uploaded (37748736)
+0039.879 (0) Google Drive: OK: Archive backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip uploaded in 13.21 seconds
+0039.880 (0) Recording as successfully uploaded: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip
+0039.895 (0) Deleting local file: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-plugins.zip: OK
+0040.360 (0) Google Drive: quota usage: used=613 MB, total=15360 MB, available=14747 MB
+0040.361 (0) Google Drive: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-themes.zip: Attempting to upload to Google Drive (into folder id: 1KlvVNbgXxF6mMqctO_1myYMu5c4h_bOd)
+0041.275 (0) Googledrive chunked upload: 5 % uploaded (1048576)
+0041.543 (0) Googledrive chunked upload: 10 % uploaded (2097152)
+0041.845 (0) Googledrive chunked upload: 15.1 % uploaded (3145728)
+0042.116 (0) Googledrive chunked upload: 20.1 % uploaded (4194304)
+0042.403 (0) Googledrive chunked upload: 25.1 % uploaded (5242880)
+0042.675 (0) Googledrive chunked upload: 30.1 % uploaded (6291456)
+0042.936 (0) Googledrive chunked upload: 35.2 % uploaded (7340032)
+0043.207 (0) Googledrive chunked upload: 40.2 % uploaded (8388608)
+0043.476 (0) Googledrive chunked upload: 45.2 % uploaded (9437184)
+0043.740 (0) Googledrive chunked upload: 50.2 % uploaded (10485760)
+0044.175 (0) Googledrive chunked upload: 55.3 % uploaded (11534336)
+0044.449 (0) Googledrive chunked upload: 60.3 % uploaded (12582912)
+0044.725 (0) Googledrive chunked upload: 65.3 % uploaded (13631488)
+0044.996 (0) Googledrive chunked upload: 70.3 % uploaded (14680064)
+0045.269 (0) Googledrive chunked upload: 75.4 % uploaded (15728640)
+0045.530 (0) Googledrive chunked upload: 80.4 % uploaded (16777216)
+0045.832 (0) Googledrive chunked upload: 85.4 % uploaded (17825792)
+0046.098 (0) Googledrive chunked upload: 90.4 % uploaded (18874368)
+0046.383 (0) Googledrive chunked upload: 95.5 % uploaded (19922944)
+0047.968 (0) Googledrive chunked upload: 100 % uploaded (19922944)
+0047.972 (0) Google Drive: OK: Archive backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-themes.zip uploaded in 7.61 seconds
+0047.973 (0) Recording as successfully uploaded: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-themes.zip
+0047.985 (0) Deleting local file: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-themes.zip: OK
+0048.476 (0) Google Drive: quota usage: used=632.9 MB, total=15360 MB, available=14727.1 MB
+0048.477 (0) Google Drive: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-uploads.zip: Attempting to upload to Google Drive (into folder id: 1KlvVNbgXxF6mMqctO_1myYMu5c4h_bOd)
+0049.390 (0) Googledrive chunked upload: 2.1 % uploaded (1048576)
+0049.661 (0) Googledrive chunked upload: 4.2 % uploaded (2097152)
+0049.932 (0) Googledrive chunked upload: 6.3 % uploaded (3145728)
+0050.217 (0) Googledrive chunked upload: 8.5 % uploaded (4194304)
+0050.491 (0) Googledrive chunked upload: 10.6 % uploaded (5242880)
+0050.821 (0) Googledrive chunked upload: 12.7 % uploaded (6291456)
+0051.079 (0) Googledrive chunked upload: 14.8 % uploaded (7340032)
+0051.349 (0) Googledrive chunked upload: 16.9 % uploaded (8388608)
+0051.658 (0) Googledrive chunked upload: 19 % uploaded (9437184)
+0051.931 (0) Googledrive chunked upload: 21.1 % uploaded (10485760)
+0052.369 (0) Googledrive chunked upload: 23.3 % uploaded (11534336)
+0052.699 (0) Googledrive chunked upload: 25.4 % uploaded (12582912)
+0052.973 (0) Googledrive chunked upload: 27.5 % uploaded (13631488)
+0053.283 (0) Googledrive chunked upload: 29.6 % uploaded (14680064)
+0053.559 (0) Googledrive chunked upload: 31.7 % uploaded (15728640)
+0053.830 (0) Googledrive chunked upload: 33.8 % uploaded (16777216)
+0054.134 (0) Googledrive chunked upload: 36 % uploaded (17825792)
+0054.438 (0) Googledrive chunked upload: 38.1 % uploaded (18874368)
+0054.719 (0) Googledrive chunked upload: 40.2 % uploaded (19922944)
+0055.041 (0) Googledrive chunked upload: 42.3 % uploaded (20971520)
+0055.411 (0) Googledrive chunked upload: 44.4 % uploaded (22020096)
+0055.708 (0) Googledrive chunked upload: 46.5 % uploaded (23068672)
+0055.979 (0) Googledrive chunked upload: 48.6 % uploaded (24117248)
+0056.256 (0) Googledrive chunked upload: 50.8 % uploaded (25165824)
+0056.540 (0) Googledrive chunked upload: 52.9 % uploaded (26214400)
+0056.873 (0) Googledrive chunked upload: 55 % uploaded (27262976)
+0057.194 (0) Googledrive chunked upload: 57.1 % uploaded (28311552)
+0057.516 (0) Googledrive chunked upload: 59.2 % uploaded (29360128)
+0057.846 (0) Googledrive chunked upload: 61.3 % uploaded (30408704)
+0058.115 (0) Googledrive chunked upload: 63.4 % uploaded (31457280)
+0058.511 (0) Googledrive chunked upload: 65.6 % uploaded (32505856)
+0058.803 (0) Googledrive chunked upload: 67.7 % uploaded (33554432)
+0059.200 (0) Googledrive chunked upload: 69.8 % uploaded (34603008)
+0059.539 (0) Googledrive chunked upload: 71.9 % uploaded (35651584)
+0059.817 (0) Googledrive chunked upload: 74 % uploaded (36700160)
+0060.089 (0) Googledrive chunked upload: 76.1 % uploaded (37748736)
+0060.398 (0) Googledrive chunked upload: 78.3 % uploaded (38797312)
+0060.708 (0) Googledrive chunked upload: 80.4 % uploaded (39845888)
+0060.999 (0) Googledrive chunked upload: 82.5 % uploaded (40894464)
+0061.278 (0) Googledrive chunked upload: 84.6 % uploaded (41943040)
+0061.689 (0) Googledrive chunked upload: 86.7 % uploaded (42991616)
+0061.950 (0) Googledrive chunked upload: 88.8 % uploaded (44040192)
+0062.231 (0) Googledrive chunked upload: 90.9 % uploaded (45088768)
+0062.507 (0) Googledrive chunked upload: 93.1 % uploaded (46137344)
+0062.780 (0) Googledrive chunked upload: 95.2 % uploaded (47185920)
+0063.066 (0) Googledrive chunked upload: 97.3 % uploaded (48234496)
+0063.338 (0) Googledrive chunked upload: 99.4 % uploaded (49283072)
+0064.898 (0) Googledrive chunked upload: 100 % uploaded (49283072)
+0064.902 (0) Google Drive: OK: Archive backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-uploads.zip uploaded in 16.42 seconds
+0064.903 (0) Recording as successfully uploaded: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-uploads.zip
+0064.926 (0) Deleting local file: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-uploads.zip: OK
+0065.475 (0) Google Drive: quota usage: used=680.2 MB, total=15360 MB, available=14679.8 MB
+0065.476 (0) Google Drive: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-others.zip: Attempting to upload to Google Drive (into folder id: 1KlvVNbgXxF6mMqctO_1myYMu5c4h_bOd)
+0067.425 (0) Googledrive chunked upload: 100 % uploaded
+0067.430 (0) Google Drive: OK: Archive backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-others.zip uploaded in 1.95 seconds
+0067.430 (0) Recording as successfully uploaded: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-others.zip
+0067.433 (0) Deleting local file: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-others.zip: OK
+0067.830 (0) Google Drive: quota usage: used=680.9 MB, total=15360 MB, available=14679.1 MB
+0067.831 (0) Google Drive: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db.gz: Attempting to upload to Google Drive (into folder id: 1KlvVNbgXxF6mMqctO_1myYMu5c4h_bOd)
+0070.266 (0) Googledrive chunked upload: 100 % uploaded
+0070.270 (0) Google Drive: OK: Archive backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db.gz uploaded in 2.44 seconds
+0070.271 (0) Recording as successfully uploaded: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db.gz
+0070.273 (0) Deleting local file: backup_2020-10-05-2105_The_Grand_0fb7091ce0f3-db.gz: OK
+0070.277 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0070.278 (0) Number of backup sets in history: 9; groups (db): 1
+0070.279 (0) Examining (for databases) backup set with group_id=0, nonce=0fb7091ce0f3, datestamp=1601903126 (Oct 05 2020 13:05:26)
+0070.279 (0) This backup set is the backup set just made, so will not be deleted.
+0070.279 (0) Examining (for databases) backup set with group_id=0, nonce=eb6f89abdac9, datestamp=1601866276 (Oct 05 2020 02:51:16)
+0070.279 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0070.280 (0) Examining (for databases) backup set with group_id=0, nonce=a5ba5b19f349, datestamp=1601750572 (Oct 03 2020 18:42:52)
+0070.280 (0) 1601750572: db: this set includes a database (backup_2020-10-04-0242_The_Grand_a5ba5b19f349-db.gz); db count is now 2
+0070.280 (0) 1601750572: db: over retain limit (2); will delete this database
+0070.280 (0) Delete file: backup_2020-10-04-0242_The_Grand_a5ba5b19f349-db.gz, service=googledrive
+0072.539 (0) Google Drive: backup_2020-10-04-0242_The_Grand_a5ba5b19f349-db.gz: Deletion successful
+0072.542 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0072.543 (0) Examining (for databases) backup set with group_id=0, nonce=767c03af41a9, datestamp=1600795031 (Sep 22 2020 17:17:11)
+0072.543 (0) This backup set (1600795031) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0072.543 (0) Examining (for databases) backup set with group_id=0, nonce=15aebc4a3a7a, datestamp=1600792043 (Sep 22 2020 16:27:23)
+0072.543 (0) This backup set (1600792043) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0072.543 (0) Examining (for databases) backup set with group_id=0, nonce=5468074fea43, datestamp=1600791871 (Sep 22 2020 16:24:31)
+0072.543 (0) This backup set (1600791871) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0072.543 (0) Examining (for databases) backup set with group_id=0, nonce=83ddde060b44, datestamp=1600791709 (Sep 22 2020 16:21:49)
+0072.543 (0) This backup set (1600791709) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0072.543 (0) Examining (for databases) backup set with group_id=0, nonce=bb81fd923be7, datestamp=1600688326 (Sep 21 2020 11:38:46)
+0072.543 (0) This backup set (1600688326) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0072.543 (0) Examining (for databases) backup set with group_id=0, nonce=ed22e7ccfb63, datestamp=1600688054 (Sep 21 2020 11:34:14)
+0072.543 (0) This backup set (1600688054) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0072.543 (0) Number of backup sets in history: 9; groups (files): 1
+0072.544 (0) Examining (for files) backup set with nonce=0fb7091ce0f3, datestamp=1601903126 (Oct 05 2020 13:05:26)
+0072.544 (0) This backup set is the backup set just made, so will not be deleted.
+0072.545 (0) This backup set is the backup set just made, so will not be deleted.
+0072.545 (0) This backup set is the backup set just made, so will not be deleted.
+0072.545 (0) This backup set is the backup set just made, so will not be deleted.
+0072.545 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0072.546 (0) Examining (for files) backup set with nonce=eb6f89abdac9, datestamp=1601866276 (Oct 05 2020 02:51:16)
+0072.546 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0072.546 (0) Examining (for files) backup set with nonce=a5ba5b19f349, datestamp=1601750572 (Oct 03 2020 18:42:52)
+0072.546 (0) plugins: over retain limit (2); will delete this file entity
+0072.546 (0) themes: over retain limit (2); will delete this file entity
+0072.546 (0) uploads: over retain limit (2); will delete this file entity
+0072.546 (0) others: over retain limit (2); will delete this file entity
+0072.547 (0) Delete file: backup_2020-10-04-0242_The_Grand_a5ba5b19f349-plugins.zip, service=googledrive
+0072.547 (0) Delete file: backup_2020-10-04-0242_The_Grand_a5ba5b19f349-themes.zip, service=googledrive
+0072.548 (0) Delete file: backup_2020-10-04-0242_The_Grand_a5ba5b19f349-uploads.zip, service=googledrive
+0072.548 (0) Delete file: backup_2020-10-04-0242_The_Grand_a5ba5b19f349-others.zip, service=googledrive
+0074.538 (0) Google Drive: backup_2020-10-04-0242_The_Grand_a5ba5b19f349-others.zip: Deletion successful
+0075.612 (0) Google Drive: backup_2020-10-04-0242_The_Grand_a5ba5b19f349-uploads.zip: Deletion successful
+0076.483 (0) Google Drive: backup_2020-10-04-0242_The_Grand_a5ba5b19f349-themes.zip: Deletion successful
+0077.443 (0) Google Drive: backup_2020-10-04-0242_The_Grand_a5ba5b19f349-plugins.zip: Deletion successful
+0077.446 (0) This backup set is now empty; will remove from history
+0077.447 (0) Deleting log file (log.a5ba5b19f349.txt)
+0077.450 (0) Examining (for files) backup set with nonce=767c03af41a9, datestamp=1600795031 (Sep 22 2020 17:17:11)
+0077.451 (0) This backup set (1600795031) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0077.451 (0) This backup set (1600795031) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0077.451 (0) This backup set (1600795031) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0077.451 (0) This backup set (1600795031) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0077.451 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0077.452 (0) Examining (for files) backup set with nonce=15aebc4a3a7a, datestamp=1600792043 (Sep 22 2020 16:27:23)
+0077.452 (0) This backup set (1600792043) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0077.452 (0) This backup set (1600792043) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0077.452 (0) This backup set (1600792043) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0077.452 (0) This backup set (1600792043) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0077.452 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0077.452 (0) Examining (for files) backup set with nonce=5468074fea43, datestamp=1600791871 (Sep 22 2020 16:24:31)
+0077.452 (0) This backup set (1600791871) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0077.452 (0) This backup set (1600791871) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0077.452 (0) This backup set (1600791871) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0077.452 (0) This backup set (1600791871) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0077.452 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0077.452 (0) Examining (for files) backup set with nonce=83ddde060b44, datestamp=1600791709 (Sep 22 2020 16:21:49)
+0077.452 (0) This backup set (1600791709) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0077.452 (0) This backup set (1600791709) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0077.452 (0) This backup set (1600791709) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0077.452 (0) This backup set (1600791709) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0077.452 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0077.453 (0) Examining (for files) backup set with nonce=bb81fd923be7, datestamp=1600688326 (Sep 21 2020 11:38:46)
+0077.453 (0) This backup set (1600688326) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0077.453 (0) This backup set (1600688326) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0077.453 (0) This backup set (1600688326) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0077.453 (0) This backup set (1600688326) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0077.453 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0077.453 (0) Examining (for files) backup set with nonce=ed22e7ccfb63, datestamp=1600688054 (Sep 21 2020 11:34:14)
+0077.453 (0) This backup set (1600688054) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0077.453 (0) This backup set (1600688054) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0077.453 (0) This backup set (1600688054) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0077.453 (0) This backup set (1600688054) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0077.453 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0077.453 (0) Retain: saving new backup history (sets now: 8) and finishing retain operation
+0077.458 (0) Resume backup (0fb7091ce0f3, 0): finish run
+0077.460 (0) Decremented the semaphore (fd) by 1
+0077.462 (0) Semaphore (fd) unlocked
+0077.463 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0077.466 (0) Fetching RSS news feed
+0077.602 (0) Fetched RSS news feed; result is a: SimplePie
+0077.669 (0) Sending email ('Files and database (Full backup)') report (attachments: 0, size: 0 KB) to: boolo...
+0077.708 (0) The backup apparently succeeded and is now complete
